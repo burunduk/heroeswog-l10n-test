@@ -6,6 +6,334 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>%Z326 is ambushed by a band of Rogues!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204505Z" creationid="olexandr" creationdate="20180131T204505Z">
+        <seg>Вас атаковала банда разбойников!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326all creatures attack as with a breath weapon (when not shooting).</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204427Z" creationid="olexandr" creationdate="20180131T204427Z">
+        <seg>%Z326все существа бьют на две клетки (если не стреляют)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326all creatures attack twice.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204420Z" creationid="olexandr" creationdate="20180131T204420Z">
+        <seg>%Z326все существа атакуют дважды.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326all towns have a grail structure built in them.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204428Z" creationid="olexandr" creationdate="20180131T204428Z">
+        <seg>%Z326все города имеют построенный Грааль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326artifacts tend to come in pairs.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204422Z" creationid="olexandr" creationdate="20180131T204422Z">
+        <seg>%Z326герои каждый раз поднимают два одинаковых артефакта там, где, казалось, лежал один.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326bands of Rogues roam the countryside, ready to ambush heroes.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204426Z" creationid="olexandr" creationdate="20180131T204426Z">
+        <seg>%Z326шайки воров бродят по сельской местности (невидимы), готовые напасть на героя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326creatures cost half as much on the 7th day of the week.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204419Z" creationid="olexandr" creationdate="20180131T204419Z">
+        <seg>%Z326на 7й день недели существа стоят лишь половину своей обычной цены.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326creatures in a hero's army attract an additional 4%% of their own kind each day, to a maximum of 10000 creatures.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204421Z" creationid="olexandr" creationdate="20180131T204421Z">
+        <seg>%Z326каждый отряд в армии героя увеличивает численность на 4% в день, стремясь к максимуму в 10000 существ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326creatures that are normally slow are fast, and the fast ones slow.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204418Z" creationid="olexandr" creationdate="20180131T204418Z">
+        <seg>%Z326медленные становятся быстрыми, а быстрые - медленными.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326each town has a Warlord's Banner in front of it, and Banners in front of neutral towns are guarded.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204509Z" creationid="olexandr" creationdate="20180131T204509Z">
+        <seg>%Z326рядом с каждым городом есть Знамя Полководца, и рядом с нейтральными городами оно охраняется.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326heroes gain an artifact with each level.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204426Z" creationid="olexandr" creationdate="20180131T204426Z">
+        <seg>%Z326каждый раз при повышении уровня герой получает артефакт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326heroes have double movement.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204423Z" creationid="olexandr" creationdate="20180131T204423Z">
+        <seg>%Z326каждый ход герои начинают с удвоенным количеством (от обычного) очков передвижения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326heroes may learn 2 secret skills in addition to the 8 normal ones.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204425Z" creationid="olexandr" creationdate="20180131T204425Z">
+        <seg>%Z326герои могут выучить 2 секретных навыка в дополнение к 8ми основным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326heroes start at 5th level.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204422Z" creationid="olexandr" creationdate="20180131T204422Z">
+        <seg>%Z326герои начинают с 5-го уровня (+5000 опыта).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326mines produce different resources from week to week.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204424Z" creationid="olexandr" creationdate="20180131T204424Z">
+        <seg>%Z326шахты меняют ресурсы каждую неделю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326most dwellings also produce Boars.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204421Z" creationid="olexandr" creationdate="20180131T204421Z">
+        <seg>%Z326большинство внешних жилищ продают кабанов рядом со своим обычным ополчением.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326no creatures can fly, and creatures that once flew cannot be retaliated against.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204417Z" creationid="olexandr" creationdate="20180131T204417Z">
+        <seg>%Z326нет летающих существ, а те, кто когда-то были летающими, бьют без ответа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326no creatures shoot, and creatures that once shot have +50%% hit points.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204428Z" creationid="olexandr" creationdate="20180131T204428Z">
+        <seg>%Z326нет стреляющих существ, а существа, бывшие ранее таковыми, имеют +50% очков здоровья.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326places that a hero could normally only visit once may be revisited each month.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204424Z" creationid="olexandr" creationdate="20180131T204424Z">
+        <seg>%Z326каждый месяц можно заново посещать объекты разового посещения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326the presence of a hero warps the land with magic.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204419Z" creationid="olexandr" creationdate="20180131T204419Z">
+        <seg>%Z326место, где герой стоит в начале дня становится магической равниной.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326there is perpetual darkness.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204423Z" creationid="olexandr" creationdate="20180131T204423Z">
+        <seg>%Z326карта скрыта постоянной тьмой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>%Z326upgraded 7th level creatures in a hero's army automatically upgrade to 8th level.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204425Z" creationid="olexandr" creationdate="20180131T204425Z">
+        <seg>%Z326в армии героя улучшенные монстры 7го уровня автоматически улучшаются до 8го в начале дня.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>7th level creatures upgrade to 8th Level.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204411Z" creationid="olexandr" creationdate="20180131T204411Z">
+        <seg>Автопреобразование существ 7-го уровня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also,</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204417Z" creationid="olexandr" creationdate="20180131T204417Z">
+        <seg>А еще</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Artifacts on the map are found in pairs.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204406Z" creationid="olexandr" creationdate="20180131T204406Z">
+        <seg>Дублирование артефактов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creature dwellings also sell Boars.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204405Z" creationid="olexandr" creationdate="20180131T204405Z">
+        <seg>Продажа кабанов во всех внешних жилищах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creatures are half-price on day 7 each week.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204402Z" creationid="olexandr" creationdate="20180131T204402Z">
+        <seg>Половинная стоимость существ на 7-ой день</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creatures attack twice.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204404Z" creationid="olexandr" creationdate="20180131T204404Z">
+        <seg>Двойная атака для всех существ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creatures have breath weapons.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204413Z" creationid="olexandr" creationdate="20180131T204413Z">
+        <seg>Атака дыханием для всех существ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Creatures in armies grow by 4 percent each day.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204404Z" creationid="olexandr" creationdate="20180131T204404Z">
+        <seg>Растущие армии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each town has a Grail.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204414Z" creationid="olexandr" creationdate="20180131T204414Z">
+        <seg>Постройка Грааля во всех городах</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each town has a Warlord's Banners in front of it.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204508Z" creationid="olexandr" creationdate="20180131T204508Z">
+        <seg>Знамена полководца у врат городов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fast creatures are slow, slow ones fast.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204400Z" creationid="olexandr" creationdate="20180131T204400Z">
+        <seg>Инвертированная скорость существ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fliers don't fly, but aren't retaliated against.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204358Z" creationid="olexandr" creationdate="20180131T204358Z">
+        <seg>Атака без контрудара вместо полета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For achieving so much, %Z2 is granted an artifact.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204438Z" creationid="olexandr" creationdate="20180131T204438Z">
+        <seg>За старания герой награжден артефактом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heroes are given an artifact each level.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204412Z" creationid="olexandr" creationdate="20180131T204412Z">
+        <seg>Получение артефакта за каждый уровень</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heroes can have 10 Skills.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204411Z" creationid="olexandr" creationdate="20180131T204411Z">
+        <seg>Использование скрытых навыков</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heroes create Magic Plains each day.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204403Z" creationid="olexandr" creationdate="20180131T204403Z">
+        <seg>Создание героями магического ландшафта</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heroes move twice as far.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204408Z" creationid="olexandr" creationdate="20180131T204408Z">
+        <seg>Удвоенное передвижение героев</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heroes start at 5th Level.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204406Z" creationid="olexandr" creationdate="20180131T204406Z">
+        <seg>Начало с героями пятого уровня</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this strange land,</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204416Z" creationid="olexandr" creationdate="20180131T204416Z">
+        <seg>На этой странной земле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Magic Air Mushroom (Not Visited)</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204040Z" creationid="olexandr" creationdate="20180131T204040Z">
@@ -70,10 +398,306 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark any map rules that you want in this game (page 1 of 2).</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204415Z" creationid="olexandr" creationdate="20180131T204415Z">
+        <seg>Отметьте правила для этой игры - на ваш выбор (страница 1 из 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark any map rules that you want in this game (page 2 of 2).</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204415Z" creationid="olexandr" creationdate="20180131T204415Z">
+        <seg>Отметьте правила для этой игры - на ваш выбор (страница 2 из 2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mines change resources each week.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204409Z" creationid="olexandr" creationdate="20180131T204409Z">
+        <seg>Еженедельная смена шахтами типа ресурса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Perpetual darkness.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204407Z" creationid="olexandr" creationdate="20180131T204407Z">
+        <seg>Туман войны</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Rogues ambush the unwary.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204412Z" creationid="olexandr" creationdate="20180131T204412Z">
+        <seg>Атаки воров</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Shooters don't shoot, but have more hit points.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204414Z" creationid="olexandr" creationdate="20180131T204414Z">
+        <seg>+50% здоровья вместо стрельбы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Teaching objects can be revisited each month.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204410Z" creationid="olexandr" creationdate="20180131T204410Z">
+        <seg>Повторное посещение мест обучения</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Rogues had treasure!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204507Z" creationid="olexandr" creationdate="20180131T204507Z">
+        <seg>У разбойников было сокровище!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Warlord's Banner is guarded by a %Z-1!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204524Z" creationid="olexandr" creationdate="20180131T204524Z">
+        <seg>Знамя Полководца имеет охрану: %Z-1!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Try again next week.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204302Z" creationid="olexandr" creationdate="20180131T204302Z">
+        <seg>Попытайтесь снова на следующей неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You find another %Z-1 near this one.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204429Z" creationid="olexandr" creationdate="20180131T204429Z">
+        <seg>Вы нашли еще один точно такой же артефакт рядом с первым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>he</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204430Z" creationid="olexandr" creationdate="20180131T204430Z">
+        <seg>он</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>she</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204430Z" creationid="olexandr" creationdate="20180131T204430Z">
+        <seg>она</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Air Mushroom} 
+ 
+The Magic Air Mushroom gives Expert Air Magic until the end of the week... 
+ 
+Since you already have Expert Air Magic, the mushroom can't help you.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204334Z" creationid="olexandr" creationdate="20180131T204334Z">
+        <seg>{Гриб Магии Воздуха} 
+ 
+Гриб Магии Воздуха делает вас Экспертом в Магии Воздуха до конца недели... 
+ 
+Если вы уже Эксперт в Магии Воздуха, Гриб ничего не может сделать для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Air Mushroom} 
+ 
+The Magic Air Mushroom gives Expert Air Magic until the end of the week... 
+ 
+You inhale the spores of the magic mushroom... 
+ 
+You learn Expert Air Magic!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204340Z" creationid="olexandr" creationdate="20180131T204340Z">
+        <seg>{Гриб Магии Воздуха} 
+ 
+Гриб Магии Воздуха делает вас Экспертом в Магии Воздуха до конца недели... 
+ 
+Вы вдохнули споры магического гриба... 
+ 
+Вы научились Экспертной Магии Воздуха!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Air Mushroom} 
+ 
+You have already visited a Magic Air Mushroom this week.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204335Z" creationid="olexandr" creationdate="20180131T204335Z">
+        <seg>{Гриб Магии Воды} 
+ 
+Вы уже посещали Гриб Магии Воды на этой неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Earth Mushroom} 
+ 
+The Magic Earth Mushroom gives Expert Earth Magic until the end of the week... 
+ 
+Since you already have Expert Earth Magic, the mushroom can't help you.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204327Z" creationid="olexandr" creationdate="20180131T204327Z">
+        <seg>{Гриб Магии Земли} 
+ 
+Гриб Магии Земли делает вас Экспертом в Магии Земли до конца недели... 
+ 
+Если вы уже Эксперт в Магии Земли, Гриб ничего не может сделать для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Earth Mushroom} 
+ 
+The Magic Earth Mushroom gives Expert Earth Magic until the end of the week... 
+ 
+You inhale the spores of the magic mushroom... 
+ 
+You learn Expert Earth Magic!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204332Z" creationid="olexandr" creationdate="20180131T204332Z">
+        <seg>{Гриб Магии Земли} 
+ 
+Гриб Магии Земли делает вас Экспертом в Магии Земли до конца недели... 
+ 
+Вы вдохнули споры магического гриба... 
+ 
+Вы научились Экспертной Магии Земли!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Earth Mushroom} 
+ 
+You have already visited a Magic Earth Mushroom this week.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204329Z" creationid="olexandr" creationdate="20180131T204329Z">
+        <seg>{Гриб Магии Воды} 
+ 
+Вы уже посещали Гриб Магии Воды на этой неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Fire Mushroom} 
+ 
+The Magic Fire Mushroom gives Expert Fire Magic until the end of the week... 
+ 
+Since you already have Expert Fire Magic, the mushroom can't help you.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204315Z" creationid="olexandr" creationdate="20180131T204315Z">
+        <seg>{Гриб Магии Огня} 
+ 
+Гриб Магии Огня делает вас Экспертом в Магии Огня до конца недели... 
+ 
+Если вы уже Эксперт в Магии Огня, Гриб ничего не может сделать для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Fire Mushroom} 
+ 
+The Magic Fire Mushroom gives Expert Fire Magic until the end of the week... 
+ 
+You inhale the spores of the magic mushroom... 
+ 
+You learn Expert Fire Magic!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204324Z" creationid="olexandr" creationdate="20180131T204324Z">
+        <seg>{Гриб Магии Огня} 
+ 
+Гриб Магии Огня делает вас Экспертом в Магии Огня до конца недели... 
+ 
+Вы вдохнули споры магического гриба... 
+ 
+Вы научились Экспертной Магии Огня!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Fire Mushroom} 
+ 
+You have already visited a Magic Fire Mushroom this week.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204319Z" creationid="olexandr" creationdate="20180131T204319Z">
+        <seg>{Гриб Магии Воды} 
+ 
+Вы уже посещали Гриб Магии Воды на этой неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{Magic Water Mushroom}</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204119Z" creationid="olexandr" creationdate="20180131T204119Z">
         <seg>{Гриб Магии Воды}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Water Mushroom} 
+ 
+The Magic Water Mushroom gives Expert Water Magic until the end of the week... 
+ 
+Since you already have Expert Water Magic, the mushroom can't help you.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204233Z" creationid="olexandr" creationdate="20180131T204233Z">
+        <seg>{Гриб Магии Воды} 
+ 
+Гриб Магии Воды делает вас Экспертом в Магии Воды до конца недели... 
+ 
+Если вы уже Эксперт в Магии Воды, Гриб ничего не может сделать для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Water Mushroom} 
+ 
+The Magic Water Mushroom gives Expert Water Magic until the end of the week... 
+ 
+You inhale the spores of the magic mushroom... 
+ 
+You learn Expert Water Magic!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204305Z" creationid="olexandr" creationdate="20180131T204305Z">
+        <seg>{Гриб Магии Воды} 
+ 
+Гриб Магии Воды делает вас Экспертом в Магии Воды до конца недели... 
+ 
+Вы вдохнули споры магического гриба... 
+ 
+Вы научились Экспертной Магии Воды!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Water Mushroom} 
+ 
+You have already visited a Magic Water Mushroom this week.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204255Z" creationid="olexandr" creationdate="20180131T204236Z">
+        <seg>{Гриб Магии Воды} 
+ 
+Вы уже посещали Гриб Магии Воды на этой неделе.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

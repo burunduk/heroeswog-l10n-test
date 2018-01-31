@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>%Z326's Surcoat Of Counterpoise grows warm, then cold, then warm again.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T205124Z" creationid="olexandr" creationdate="20180131T205124Z">
+        <seg>Мантия Равновесия, которой обладает %Z326, становится теплой, затем холодной, затем снова теплой...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>%Z326all creatures attack as with a breath weapon (when not shooting).</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204427Z" creationid="olexandr" creationdate="20180131T204427Z">
@@ -190,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>%Z352 may learn a secret skill, %Z353.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T205055Z" creationid="olexandr" creationdate="20180131T205055Z">
+        <seg>Герой может выучить секретный навык, %Z353.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>7th level creatures upgrade to 8th Level.</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204411Z" creationid="olexandr" creationdate="20180131T204411Z">
@@ -250,6 +266,14 @@
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204404Z" creationid="olexandr" creationdate="20180131T204404Z">
         <seg>Растущие армии</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Does %Z354 wish to learn this?</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T205102Z" creationid="olexandr" creationdate="20180131T205102Z">
+        <seg>Хочет ли %Z354 выучить это?</seg>
       </tuv>
     </tu>
     <tu>
@@ -334,10 +358,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Impressed by %Z326's interest in Birds, some Royal Griffins join %Z328 army.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T205152Z" creationid="olexandr" creationdate="20180131T205152Z">
+        <seg>Впечатленные тем, что %Z326 интересуется птицами, несколько Королевских Грифонов желают вступить в %Z328 армию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>In this strange land,</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204416Z" creationid="olexandr" creationdate="20180131T204416Z">
         <seg>На этой странной земле</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It's unclear what it's doing, but it seems to be doing something.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T205137Z" creationid="olexandr" creationdate="20180131T205137Z">
+        <seg>Неясно, что происходит, но похоже, дело в Мантии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Joyful at %Z326's interest in Life and its Pendants, some Sprites join %Z328 army.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T205158Z" creationid="olexandr" creationdate="20180131T205158Z">
+        <seg>Довольные, что %Z326 интересуется жизнью и ее символами, несколько Фей желают вступить в %Z328 армию.</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +578,22 @@
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204430Z" creationid="olexandr" creationdate="20180131T204430Z">
         <seg>он</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>her</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T205114Z" creationid="olexandr" creationdate="20180131T205114Z">
+        <seg>ее</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>his</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T205112Z" creationid="olexandr" creationdate="20180131T205112Z">
+        <seg>его</seg>
       </tuv>
     </tu>
     <tu>

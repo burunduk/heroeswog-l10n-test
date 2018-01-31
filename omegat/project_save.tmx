@@ -4,6 +4,78 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>Magic Air Mushroom (Not Visited)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204040Z" creationid="olexandr" creationdate="20180131T204040Z">
+        <seg>Гриб Магии Воздуха (Не посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magic Air Mushroom (Visited)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204042Z" creationid="olexandr" creationdate="20180131T204042Z">
+        <seg>Гриб Магии Воздуха (Посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magic Earth Mushroom (Not Visited)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204036Z" creationid="olexandr" creationdate="20180131T204036Z">
+        <seg>Гриб Магии Земли (Не посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magic Earth Mushroom (Visited)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204037Z" creationid="olexandr" creationdate="20180131T204037Z">
+        <seg>Гриб Магии Земли (Посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magic Fire Mushroom (Not Visited)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204035Z" creationid="olexandr" creationdate="20180131T204035Z">
+        <seg>Гриб Магии Огня (Не посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magic Fire Mushroom (Visited)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204036Z" creationid="olexandr" creationdate="20180131T204036Z">
+        <seg>Гриб Магии Огня (Посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magic Water Mushroom (Not Visited)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204029Z" creationid="olexandr" creationdate="20180131T204029Z">
+        <seg>Гриб Магии Воды (Не посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Magic Water Mushroom (Visited)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204033Z" creationid="olexandr" creationdate="20180131T204033Z">
+        <seg>Гриб Магии Воды (Посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Magic Water Mushroom}</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204119Z" creationid="olexandr" creationdate="20180131T204119Z">
+        <seg>{Гриб Магии Воды}</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

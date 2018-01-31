@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>%Z326 is ambushed by a band of Water Elementals!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204602Z" creationid="olexandr" creationdate="20180131T204602Z">
+        <seg>%Z326 подвергается атаке группой Элементалей Воды!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>%Z326all creatures attack as with a breath weapon (when not shooting).</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204427Z" creationid="olexandr" creationdate="20180131T204427Z">
@@ -446,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Suddenly, the water around %Z326's ship becomes alive!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204558Z" creationid="olexandr" creationdate="20180131T204558Z">
+        <seg>Внезапно, вода вокруг корабля героя %Z326 оживает!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Teaching objects can be revisited each month.</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204410Z" creationid="olexandr" creationdate="20180131T204410Z">
@@ -462,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The Warlord's Banner is guarded by %Y1 %Z-1!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204543Z" creationid="olexandr" creationdate="20180131T204543Z">
+        <seg>Знамя Полководца имеет охрану: %Y1 %Z-1!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>The Warlord's Banner is guarded by a %Z-1!</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204524Z" creationid="olexandr" creationdate="20180131T204524Z">
@@ -474,6 +498,22 @@
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204302Z" creationid="olexandr" creationdate="20180131T204302Z">
         <seg>Попытайтесь снова на следующей неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will you fight it for the prize?</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204527Z" creationid="olexandr" creationdate="20180131T204527Z">
+        <seg>Вы будете драться за эту награду?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will you fight them for the prize?</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180131T204548Z" creationid="olexandr" creationdate="20180131T204548Z">
+        <seg>Вы будете драться с ними за эту награду?</seg>
       </tuv>
     </tu>
     <tu>

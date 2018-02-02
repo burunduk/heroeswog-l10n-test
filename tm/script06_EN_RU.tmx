@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{VERSION OUT-OF-DATE WARNING} 
+
+Sorry, your versions of WoG and/or ERM 
+are too old to use the 
+{Hourglass of Asmodeus v1.5} 
+ 
+Please update your files.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>{ПРЕДУПРЕЖДЕНИЕ: ВЕРСИЯ УСТАРЕЛА} 
+ 
+Извините, ваши версии WoG и/или ERM 
+слишком старые чтобы использовать 
+{Песочные часы Асмодеуса v1.5} 
+ 
+Пожалуйста, обновите ваши файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Hourglass of Asmodeus}
+
+Several heroes normally used by this script (Xeron, Kilgor or Roland) are used in this map (they're set as {enabled} in the map editor), therefore the script is being {disabled}. This means that the Hourglass artifact will only have its normal luck negation abilities for this game.
+
+In order to use this script, you must disable at least {one} of Xeron, Kilgor or Roland in the map editor. If the {Enable Extension Heroes} option is enabled, you must disable {Xeron} in the map editor.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>{Песочные Часы Асмодеуса}
+
+Некоторые герои, обычно используемые этим скриптом (Ксерон, Килгор или Роланд) видимо все используются этой картой (они {разрешены} в редакторе карт), поэтому этот скрипт будет {отключен}.
+
+Пожалуйста, отредактируйте карту, скрипт, или играйте на другой карте, если вы желаете использовать этот скрипт.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hourglass of Asmodeus</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>Песочные Часы Асмодеуса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Hourglass of Asmodeus} 
+
+This item negates all luck bonuses during combat for both you and your opponent. In addition, if you initiate combat, you have the option of summoning a powerful demon lord to fight the battle instead of you (with your troops). However, there is a price -- a permanent piece of your soul (1 point of Power) is forfeit for each summoning.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>{Песочные Часы Асмодеуса} 
+ 
+Этот предмет отнимает у вас и вашего противника все бонусы Удачи во время боя. К тому же, если вы инициатор драки, вы имеете возможность вызова мощного Лорда Демонов, чтобы он дрался в этой битве вместо вас (с вашими войсками). Однако цена этого - вы навсегда отдадите часть своей души в уплату за каждый вызов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do you wish to use the 
+{Hourglass of the Evil Hour} 
+to summon forth 
+{The Demon Lord Asmodeus} 
+who will fight for you in combat?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>Желаете ли вы использовать 
+{Песочные Часы Асмодеуса} 
+чтобы вызвать 
+{Демонического Лорда Асмодеуса} 
+который будет вести битву вместо вас?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>his</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>его</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>her</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>ее</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Asmodeus</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>Асмодеус</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After losing all your troops in combat, Asmodeus generously assigns three of his imps to accompany %$hrname$.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>Потеряв в битве все ваши войска, Асмодеус щедро пополняет армию %$hrname$ тремя бесами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Asmodeus takes a piece of %$hrname$'s soul as payment, reducing %$hisher$ Power by one. 
+ 
+Without artifacts, %$hrname$'s 
+{True Power} is now %$rpower$.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>Асмодеус забирает часть души Героя с именем %$hrname$ как плату. %$hisher$ Сила уменьшается на 1 очко.
+ 
+Без Артефактов, %$hrname$ имеет теперь 
+{Собственную Силу} в значении %$rpower$.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Asmodeus takes a piece of %$hrname$'s soul as payment, reducing %$hisher$ Power by one. 
+ 
+%$hrname$'s {Power} is now %$rpower$.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>Асмодеус забирает часть души Героя с именем %$hrname$ как плату. %$hisher$ Сила уменьшается на 1 очко. 
+ 
+Теперь Сила этого героя равна %$rpower$.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%$hrname$'s soul is too weak to interest Asmodeus. He takes the {Hourglass} and departs to the underworld, leaving a little gift behind to keep %$hrname$ amused...</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203419Z">
+        <seg>%$hrname$ имеет душу, слишком слабую, чтобы заинтересовать Асмодеуса. Он забирает {Песочные Часы} и отправляется под землю, оставив маленький "подарок", немало позабавивший Героя с именем %$hrname$...</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

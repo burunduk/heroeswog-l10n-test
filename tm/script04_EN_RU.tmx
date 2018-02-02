@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Arcane Tower</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>Башня Аркан</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A ghost floats down a staircase and glides up to you. It floats there, flickering, regarding you. At last it speaks. "It is well that you came here, traveller. I can help you."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>Призрак плывет вниз по лестнице и скользит прямо к вам. Он приближается, мерцая. Наконец он произносит. "Хорошо, что ты пришел сюда, путник. Я могу тебе помочь."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The ghost continues. "I can make you strong, give you power - perhaps as much power as I have! But it will cost you dearly. I can give you skill at attack, defense, spellcasting, or knowledge... in return, I require the same. One for one. Are you interested?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>Призрак продолжает. "Я могу сделать тебя сильным, дать тебе мощь - возможно, сравнимую с моей! Но это будет стоить тебе немало, дорогуша. Я могу дать тебе навык Атаки, Защиты, Силы, или Знания... Взамен мне требуется то же самое. Одно за другое. Тебе это интересно?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Ah, traveller, you will know one day that you have erred."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Ах, путник, придет день, когда ты осознаешь свою ошибку."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Of course. Who wouldn't be? I can teach you combat prowess or spell prowess. Do you prefer combat (attack or defense) or spells (spell power or knowledge)?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Конечно. Кто бы отказался? Я могу обучить тебя искусствам войны или магическим искусствам. Ты предпочитаешь военные (Атаку или Защиту) или магические (Силу или Знание)?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Will it be attack or defense?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Атаку или Защиту?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Will it be spell power or knowledge?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Силу или Знание?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Will you pay me with your attack skill?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Ты готов расплатиться со мной навыком Атаки?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Will you pay me with your defense skill?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Ты готов расплатиться со мной навыком Защиты?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Will you pay me with your spell power?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Ты готов расплатиться со мной навыкомr Силы?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Will you pay me with your knowledge?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Ты готов расплатиться со мной навыком Знания?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Then you have nothing to pay me! Begone!"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Значит тебе нечем расплатиться! Проваливай!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"You can't trick me! You have none to pay!"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Ты не сможешь надуть меня! Тебе нечем платить!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The ghost admires its handiwork. "Your new powers are affecting you. I can see the change already..."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>Призрак восхищен делом своих рук. "Твоя новая мощь охватывает тебя. Я уже вижу перемену..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Excellent!"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Отлично!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"Excellent! The same trade again?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T201445Z">
+        <seg>"Отлично! Повторим на тех же условиях?"</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{VERSION OUT-OF-DATE WARNING} 
+ 
+Sorry, your versions of WoG and/or ERM 
+are too old to use the 
+{Fishing Well version 1.4 script.} 
+ 
+Please update your files.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>{ПРЕДУПРЕЖДЕНИЕ: ВЕРСИЯ УСТАРЕЛА} 
+ 
+Извините, ваши версии WoG и/или ERM 
+слишком старые чтобы использовать 
+{Рыболовный Колодец v1.4} 
+ 
+Пожалуйста, обновите ваши файлы.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do you stop to fish in the well?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Хотите остановиться порыбачить в колодце?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You're too exhausted to fish right now. Try in the morning.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы слишком устали, чтобы рыбачить прямо сейчас. Попробуйте с утра пораньше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After several hours you discover there's nothing but</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>После нескольких часов вы обнаружили, что здесь ничего нет, однако</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>at the bottom of this well</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>на дне этого колодца</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z301
+water and a soggy cheese sandwich %Z302.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>%Z301 %Z302 есть вода и сырой сэндвич с сыром.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z301
+water and an old smelly boot %Z302.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>%Z301 %Z302 есть вода и вонючий старый ботинок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z301
+water and an old rusty sword %Z302.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>%Z301 %Z302 есть вода и старый ржавый меч.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z301
+water and a half-eaten lambchop %Z302.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>%Z301 %Z302 есть вода и наполовину съеденный ягненок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z301
+smelly water and slimy mud %Z302.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>%Z301 %Z302 есть зловонная вода и гадкая тина.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z301
+sparkling water and lots of mossy rocks
+%Z302.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>%Z301 %Z302 есть искрящаяся вода и множество мшистых камней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After several hours you reel in a large furry trout
+and decide to cook it for supper.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>После нескольких часов вы зацепили большую пушистую форель и решили приготовить ужин.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You start to fish in the old well and end up mesmerised
+by the deep dark hole. Several hours later you snap out
+of it with a start!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Присев у колодца поудить, вы были зачарованы 
+глубокой черной бездной. Только через несколько часов вы 
+стряхнули с себя это состояние и начали ловлю!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After a long day's fishing you catch a miniature mermaid.
+She sings to you until you fall asleep and when you awake 
+she's gone.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>После долгого дня рыбалки вы поймали маленькую русалку. 
+Она пела вам, пока вы не уснули, 
+а когда вы проснулись, она уже исчезла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You fish and fish and fish and fish and fish and fish and fish
+and fish and fish and fish. In the end you're totally sick of fishing.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы удили и удили и удили и удили и удили и удили и удили и удили и удили и удили. 
+В итоге вы окончательно заболели рыбалкой.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You fish for a very long time and finally you give up,
+but not before you've used every single worm you could find.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы удили долго-долго и под конец поймали. Но не раньше, чем использовали всех червяков, которых удалось отыскать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>While fishing in the well, you amuse yourself by yelling into it
+and hearing the echoes return. This is great fun until the echoes 
+start occurring by themselves... 
+ 
+~~SpOoKy~~</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Ловя рыбку вы забавлялись тем, что кричали в глубину колодца, слушая эхо. Это отличная забава, когда эхо повторяет себя много раз...
+ 
+{ЖуУткО!}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You spend an enjoyable time fishing in the well and telling
+tales of scaly heroes, brave dragons and silly little warlocks.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы приятно проводили время, за рыбалкой и рассказыванием самому себе историй о чешуйчатых героях, храбрых драконах и глупых маленьких колдунах.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It's such a hot day that you decide to cool off in the well.
+Luckily for you, the undertow isn't too strong and you manage 
+to keep your footing down there.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Был такой жаркий день, что вы решили охладиться в колодце. К счастью для вас, подводное течение было не слишком сильным и вы удерживались на плаву.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>While fishing around in the well for valuable things, you 
+discover an old and very heavy anchor. Now who would 
+have thought a sailing ship could even FIT down there?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Пытаясь выловить ценные вещи, вы обнаружили старый и очень тяжелый якорь. Может, рыбацкая лодка потонула здесь?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Casting a fishing line down in the well quickly grows
+boring so you and your second in command take turns
+dunking the troops instead!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Прикинув глубину колодца вы быстро заскучали, поэтому вместо рыбалки Вы с вашим адьютантом принялись купать солдат!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After fishing for awhile in the well without any luck
+you decide to play a game and bob for apples.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Порыбачив немного в колодце без особого результата вы решили сыграть в игру "укуси яблоко".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You fish for awhile in the well and end up landing an
+electric eel. It's a shocking experience that you're not
+eager to repeat!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Порыбачив немного в колодце вы вытащили электрического угря. Этот "шоковый" опыт вы врядли решитесь повторить!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You fish in the well for a long time until the blackflies finally drive you back to your tents.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы рыбачили долго, пока темнота не загнала вас обратно в палатку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After many hours you manage to catch a beautiful
+rainbow fish that tastes delightful fried with onions.
+
+Eating the meal boosts your entire army's spirits!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>После долгих часов попыток управиться с удочкой, вы поймали красивую радужную рыбу, у которой оказался прелестный вкус в жареном виде с лучком! После опустошения запасов мяса, боевой дух армии существенно поднялся!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After several hours of fishing you're amazed to discover that you've reeled in The Grail!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>После нескольких часов рыбалки вы были изумлены тем, что обнаружили запутавшийся в леске {ГРААЛЬ}!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>But it turns out you were just hallucinating and luckily your army is able to bring you back to your senses!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Однако вскоре выяснилось, что это была всего лишь галлюцинация. К счастью ваша армия привела вас в чуство!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You fish for a long time without incident, pausing now and then to toss in a coin and make a wish. By the end of the day you realize that you've tossed {%Y2} {gold} {coins} into the boring old well.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы долго рыбачили без происшествий, прерываясь, чтобы подбросить монетку и загадать желание. К концу дня до вас дошло, что вы выкинули в колодец {%Y2} {золотых} {монет}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After several hours fishing in the well, a storm rolls in
+and your whole army gets drenched to the bone.
+Everyone goes to bed cold, wet and miserable.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>После нескольких часов рыбалки начался шторм, в котором и вы и вся ваша армия продрогли до костей. Каждый лег спать замерзшим, мокрым и несчастным.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>While fishing in the well, you're surprised by a troop of friendly dwarves that emerge singing 
+ 
+"{Hi ho, Hi ho, it's} 
+{home again we go.}"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Рыбача в колодце, вы были поражены группой дружественных гномов, которые пели 
+ 
+"{Й-о-хо-хо!} 
+{И бутылка Рому!}"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You fish all day long and are just about to give up when a sexy water spirit appears and teaches you the mystic words to a magic spell. 
+"{Use} {this} {%Z301} {spell} {to} {annoy} {your} {enemies}," 
+giggles the spirit before vanishing back down the well from where she came.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы ловили целый день и только собрались подняться когда обворожительная русалка появилась и научила вас мистическим словам магического заклинания. 
+"{Используй} {это} {заклинание} {чтобы} {раздавить} {ваших} {врагов}," 
+хихикнула русалка перед исчезновением в колодце, из которого появилась.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You fish for hours with no luck and just as you're starting to feel that you've wasted the day, a hunchback old gnome pulls up in a covered wagon and offers you %Y7 gold in exchange for your 
+%Y4 %Z2. 
+ 
+Do you agree to the deal?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Часами вы рыбачили без тени удачи и, только вы начали чувствовать что даром промотали день, горбатый старый гном появился из укрытой повозки и предложил вам %Y7 золотом в обмен на 
+%Y4 ваших %Z2. 
+ 
+Вы согласны на сделку?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You fish for hours with no luck and just as you're starting to
+feel that you've wasted the day, a hunchback old gnome pulls
+up in a covered wagon. He looks over your army, wrinkles his
+nose and rides off into the sunset.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Часами вы рыбачили без тени удачи и, только вы начали чувствовать что даром промотали день, горбатый старый гном появился из укрытой повозки. Он осмотрел вашу армию, поморщил нос и укатил в рассвет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You inform your %Z2 of their new owner and quickly make the exchange. The hunchback gnome mutters darkly as he loads your troops on the wagon and rides off into the sunset.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы сообщили вашим %Z2 об их новом хозяине и быстренько совершили обмен. Горбатый гном матерился по-черному, загружая ваших солдат в повозку и укатил в рассвет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You absolutely refuse to sell your loyal %Z2
+into slavery to the first hunchback gnome that
+happens to ride by, even if he is offering a fantastic deal! 
+ 
+The gnome shakes his head sadly and rides off into the sunset.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы наотрез отказались продавать ваших подданных %Z2 в рабство первому встречному горбатому гному, даже если бы он предложил фантастические условия сделки! 
+ 
+Гном огорченно покачал головой и укатил в рассвет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>While fishing in the well, you hear a cry for help! 
+ 
+Lowering a strong rope enables you to pull up a %Z301 that fell down and got trapped in this dark watery hole. 
+ 
+The %Z301 is grateful to be rescued!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Рыбача, вы услышали мольбы о помощи! 
+ 
+Черная прочная веревка позволила вам вытянуть свалившегося и заключенного в темной водяной дыре. 
+ 
+%Z301 благодарит вас за спасение!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fishing in the well takes several hours but you finally manage to dredge up some loose coins.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Рыбалка заняла несколько часов, но вам наконец удалось выловить несколько утерянных монет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You spend all day fishing in the well and
+eventually you haul up a rusty old chest.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы потратили целый день на рыбалку, и, в конечном счете, подняли старый ржавый сундук.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You toss the unopened chest back down the well where it lands with an incredibly loud {*SPLASH*} at the bottom!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы выбросили неотпертый сундук обратно в колодец, где он приземлился с невозможно громким {*ВСПЛЕСКОМ*} внизу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The chest is filled with a strange pink gas that causes %Z303's %Z2 to {INCREASE} in number.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Сундук заполнен странным розовым газом который дает непонятный эффект.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inside the chest you find 
+ 
+{%Y7 Gold Coins!}</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>В сундуке вы нашли 
+ 
+{%Y7 золотых монет!}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inside the chest you find valuable resources!}</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>В сундуке вы нашли ценные ресурсы!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inside the chest you're elated to discover a magical artifact!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>В сундуке вам на радость лежит магический Артефакт!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Much to everyone's disappointment, the chest turns out to be empty.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Ко всеобщему разочарованию, сундук оказался пустым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The chest is filled with a strange purple gas that causes %Z303's %Z2 to change into %Z1.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Сундук наполнен странным пурпурным газом который вызывает странные превращения в вашей армии.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It's a TRAP! Deadly magic darts fly out, but luckily they all miss and nobody is injured.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Это ЛОВУШКА! Смертельная магия вытекла наружу, но к счастью она выдохлась, поэтому никто не пострадал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It's a TRAP! Deadly magic darts fly out and instantly kill %Y3 of %Z303's loyal %Z2!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Это ЛОВУШКА! Смертельная магия вытекла наружу и убила несколько верных Вам солдат!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>spell scroll</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>свиток заклинания</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Living Scroll</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Живой Свиток</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inside the chest is a tightly sealed scroll case. Opening the case you discover a magical %Z2 of %Z301 which you eagerly anticipate using.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Внутри сундука обнаружился плотно запечатанный футляр со свитком внутри. Открыв футляр вы обнаружили магический %Z2 с заклинанием %Z301, который с удовольствием будете использовать.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After spending several lazy hours fishing in the well, you're totally unprepared for what suddenly emerges!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Проведя несколько медленно тянущихся часов рыбача, вы были абсолютно не готовы к тому, что внезапно появилось!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>While fishing, you discover a long, dark passageway located halfway down the well. 
+ 
+Do you take your army and carefully explore the tunnel?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Рыбача вы обнаружили длинный, темный проход на полпути ко дну колодца. 
+ 
+Вы готовы взять свою армию и осторожно исследовать туннель?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After many hours following long, dark twisty passages, you finally see daylight and emerge through another Magic Well.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>После многих часов блуждания, в длинном темном петляющем проходе, вы наконец увидели дневной свет и вылезли из другого волшебного колодца.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Oh well, perhaps another day when you're feeling more adventurous.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Ох, ну хорошо, возможно в другой день вы решите рискнуть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After many hours following long, dark twisty passages, you find yourself in a large cave with no other way to go except back the way you came. 
+ 
+Suddenly, from the back of the cave comes a fearsome beast, intent on killing you. Your torches catch sight of a glimmering hoard of treasure that the beast is guarding. 
+ 
+Are you brave enough to stay and fight?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>После многих часов блуждания, в длинном темном петляющем проходе, вы оказались в большой пещере, не имеющей другого выхода кроме того пути, которым вы пришли. 
+ 
+Внезапно, из-за стены появилось ужасное чудище, с намерениями убить вас. Вы заметили блеск сокровищ, лхраняемых монстром. 
+ 
+У вас достаточно храбрости остаться и драться?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Having beaten the %Z301, you discover treasure!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Попотев над этим монстром, что иногда зовут - %Z301 -  вы нашли сокровища!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>With the %Z301 dead and your treasure loaded, you follow the tunnel back to the surface.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Когда %Z301 был мертв и ваше сокровище загружено, вы проследовали по туннелю назад к поверхности.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You rapidly flee from the fearsome %Z301, back through the tunnels to the surface!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы быстро убежали от ужасного монстра, назад по туннелю к поверхности!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alas! You were beaten by the %Z301! What a sad sad fate for a brave hero...</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Увы, %Z301 побил вас! Что за грустная судьба для храброго героя...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You spend all day fishing in the well and eventually you haul up a rusty old chest.
+
+Do you open it?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы потратили целый день на ловлю в колодце и внезапно вы подцепили старый ржавый сундук.
+
+Вы откроете его?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do you open it?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Вы откроете его?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rusty old chest</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Старый ржавый сундук</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cheese sandwich</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Сырный сэндвич</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Old boot</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Старый ботинок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rusty sword</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Ржавый меч</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Lambchop</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Ягненок</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Slimy mud</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Гадкая тина</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mossy rocks</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Мшистые камни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Trout</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Форель</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dark hole</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Темная дыра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mermaid</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Русалка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fishing</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Рыбка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Worms</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Черви</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spookies</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Призраки</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Scaly hero</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Бедный герой</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Brave dragon</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Храбрый дракон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Silly warlock</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Молчаливый колдун</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hot sun</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Жаркое солнце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Anchor</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Якорь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Well dunking!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Хороший бросок!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bob with an apple</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Боб с яблоком</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Electric eel</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Электрический угорь</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rainbow fish</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Золотая рыбка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Storm</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Шторм</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Gnome trader</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203516Z">
+        <seg>Гном-торговец</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

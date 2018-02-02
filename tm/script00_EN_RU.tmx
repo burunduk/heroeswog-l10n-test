@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>WoGification is about to begin! 
+ 
+After this message, there will be a delay while the map is converted 
+to include WoG features (and then another message when it's done). 
+ 
+Hint: You can view or save current WoGify options during the game
+by pressing 'S' and then clicking on the WoG Options button. 
+Option changes CANNOT be made during a game from this screen.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>WoG'ификация начинается!
+
+После этого сообщения, некоторое время займет 
+преобразование карты, инициирующее новые возможности WoG. 
+(затем появится сообщение об окончании этого процесса).
+
+ПОДСКАЗКА: Вы можете посмотреть или сохранить WoG-настройки
+во время игры, нажав 'S' и кликнув после этого 
+по кнопке WoG-настроек.
+Изменить настройки из этого окна во время игры НЕЛЬЗЯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Large maps may take a few minutes on slow systems. Please be patient.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Преобразование больших карт может длиться несколько минут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The WoG Options button is located on the Scenario Selection screen.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Кнопка WoG-настроек находится в окне выбора сценария.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>WoGification complete!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>WoG'ификация завершена!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Enjoy yourself...or ELSE!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Приятной игры... удачи!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To battle, Hero!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>К бою, Герой!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please select a Stack Experience value to change.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Что именно из настроек получения опыта армиями вы хотите изменить?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Set AI Experience Multiplier.           Currently:    %Y2%%  (%Z2)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Получение опыта компьютером.       Сейчас: %Y2%% (%Z2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Set Human Experience Multiplier.  Currently:    %Y5%%</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Получение опыта игроком.                Сейчас: %Y5%%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Set AI Town Garrison Multiplier.    Currently:    x%Y4  (%Z4)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Гарнизоны в городах компьютера.   Сейчас: x%Y4  (%Z4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Set AI Additional Experience.          Currently:    +%Y3  (%Z3)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Дополн. опыт для компьютера.         Сейчас: +%Y3  (%Z3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use these values.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Использовать эти значения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Set AI Experience Multiplier.
+Currently:  %Y2%% (%Z2)
+
+%Z-9</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Задать темп получения опыта компьютером.
+Текущее:  %Y2%% (%Z2)
+
+%Z-9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Set Human Experience Multiplier.
+Currently:  %Y5%%</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Задать темп получения опыта игроком.
+Текущее:  %Y5%%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Set AI Town Garrison Multiplier.
+Currently:  x%Y4 (%Z4)
+
+%Z-9
+
+Note: If AI Experience Multiplier is 0, Town Garrisons
+will receive 0 experience regardless of this value.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Задать темп для гарнизонов в городах компьютера.
+Текущее:  x%Y4 (%Z4)
+
+%Z-9
+
+Важно: Если темп роста опыта компьютера ноль, гарнизоны 
+его городов будут получать ноль опыта, независимо от  
+того, что вы введете сейчас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Set AI Additional Experience.
+Currently:  +%Y3 (%Z3)
+
+%Z-9</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Задать дополнительный опыт для компьютера.
+Текущее:  +%Y3 (%Z3)
+
+%Z-9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Enter an integer value between 0 and 10000</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Введите целое число от 0 до 10000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Value Not in Allowed Range}
+
+You must enter a value
+between 0 and 10000.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>{Неверное значение}
+
+Вы должны ввести значение
+от 0 до 10000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Easier than Easy</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Легче легкого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Easy</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Легко</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Easy/Normal</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Легко/Нормально</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Нормально</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Normal/Hard</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Нормально/Сложно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hard</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Сложно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hard/Expert</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Сложно/Эксперт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Expert</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Эксперт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Expert/Impossible</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Эксперт/Невозможно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Impossible</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Невозможно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Harder than Impossible</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Ни единого шанса</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>[0=None, 100=Easy, 200=Normal
+300=Hard, 400=Expert, 500=Impossible]</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>[0=Нет, 100=Легко, 200=Нормально
+300=Сложно, 400=Эксперт, 500=Невозможно]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>[0=None, 10=Easy, 25=Normal
+50=Hard, 75=Expert, 100=Impossible]</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>[0=Нет, 10=Легко, 25=Нормально
+50=Сложно, 75=Эксперт, 100=Невозможно]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>[0=None, 50=Easy, 100=Normal
+200=Hard, 300=Expert, 400=Impossible]</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>[0=Нет, 50=Легко, 100=Нормально
+200=Сложно, 300=Эксперт, 400=Невозможно]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Invalid Spell Parameter: minimum spell level must be 0..5</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Неправильный параметр заклинания: минимальный уровень: 0..5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Invalid Spell Parameter: maximum spell level must be 0..5</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Неправильный параметр заклинания: максимальный уровень: 0..5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Invalid Spell Parameter: spell type be 0..2</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Неправильный параметр заклинания: тип заклинания: 0..2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Invalid Spell Parameter: element must be 0..15</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Неправильный параметр заклинания: элемент должен быть в пределах: 0..15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Invalid Spell Parameter: banning must be 0..3</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Неправильный параметр заклинания: запрет должен быть в пределах: 0..3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Invalid Spell Parameter: number of spell exclusions must be 0..9</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>Неправильный параметр заклинания: число исключений может быть: 0..9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{WoGification Cancelled!}
+
+Although WoGification has been cancelled, most ongoing WoGify scripts will remain active.
+
+WARNING: Since the map is "half-wogified" some scripts may not work as intended. Continue playing at your own risk.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203216Z">
+        <seg>{WoG'ификация отменена!}
+
+Несмотря на то, что WoG'ификация была отменена, большинство уже включенных скриптов остаются активны.
+
+ВНИМАНИЕ: Поскольку карта "наполовину WoG'ифицирована", 
+некоторые скрипты могут работать неправильно.
+
+Вы можете продолжать игру на свой страх и риск.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

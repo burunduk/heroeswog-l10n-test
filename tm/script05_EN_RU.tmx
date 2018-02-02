@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Bank}
+
+Sorry, but you can't visit the Bank without a Marketplace.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Банк}
+
+Извините, но вы не можете посещать Банк, не имея Рынка.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bank
+
+"Welcome", the clerk says, "how can I help you?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Банк
+
+"Добро пожаловать", говорит клерк, "чем мы можем помочь вам?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No thanks. I've changed my mind.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Нет, спасибо. Я передумал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Transfer all Resources to another Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Передать все Ресурсы другому Игроку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Transfer specific Resources to another Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Передать часть Ресурсов другому Игроку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Borrow Money or Resources</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Занять денег или ресурсов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+
+"Would you like to borrow Money or Resources?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+
+"Вы хотите занять денег или ресурсов?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Borrow Money or Resources</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Занять денег или ресурсов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Transfer all Resources to another Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Передать все Ресурсы другому Игроку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Transfer specific Resources to another Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Передать часть Ресурсов другому Игроку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Gold Department -}
+
+"Sorry, but you still owe us {%Y4} {Gold}. Come back when you've paid your last installment."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Финансовый Отдел -}
+
+"Извините, но вы еще не погасили долг. Возвращайтесь, когда рассчитаетесь по предыдущей сделке. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Gold Department -}
+
+"We offer you a maximum of {%Y3} {Gold} but charge 30%% interest. The maximum loan available will increase over time.
+Repayment will start tomorrow and we'll take half of the Gold in your treasury every day until the loan is repaid."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Финансовый Отдел -}
+
+"Мы можем предложить вам максимум %Y3 золотом, но под 30%%. Максимально доступный кредит со временем увеличится.
+Возмещение начнется завтра, и мы будем забирать половину всех ваших денег каждый день до полного возврата кредита."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Loan Bank
+- Gold Department -
+(Current Limit: %Y3 Gold)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Кредитный Банк
+- Финансовый Отдел -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"How much Gold do you want to borrow?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>"Какую сумму вы хотите занять?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Gold Department -}
+
+"Don't worry, we'll keep this offer open for you. Come back whenever you want."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Финансовый Отдел -}
+
+"Не беспокойтесь, предложение остается в силе . Возвращайтесь когда пожелаете."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Gold Department -}
+
+"Here you are. It was a pleasure doing business with you."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Финансовый Отдел -}
+
+"Отлично.  Приятно было иметь с вами дело."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Resource Department -}
+
+"Sorry, but you still owe us {%Y5} {%Z-9}. Come back when you've paid your last installment."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Отдел Обеспечения -}
+
+"Извините, но вы еще не погасили долг. Возвращайтесь, когда рассчитаетесь по предыдущей сделке. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Loan Bank
+- Resource Department -
+"Please choose your desired Resource type:"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Кредитный Банк
+- Отдел Обеспечения -
+"Какие желаете ресурсы?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wood</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Дерево</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mercury</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Ртуть</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ore</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Руда</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sulfur</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Сера</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Crystal</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Кристаллы</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Gems</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Драгоценные камни</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Resource Department -}
+
+"We offer you a maximum of {%Y4} {%Z-8} but charge 30%% interest with a minimum of 1 %Z-8. The maximum loan available will increase over time.
+Repayment will start tomorrow and we'll take half of the %Z-8 in your treasury every day until the loan is repaid."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Отдел Обеспечения -}
+
+"Мы можем предложить вам максимум %Y4 %Z-8, но под 30%%. Максимально доступный кредит со временем увеличится.
+Возмещение начнется завтра, и мы будем забирать %Z-8 - каждый день половину всех ваших запасов - до полного возврата кредита."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Loan Bank
+- Resource Department -
+(Current Limit: %Y4 %Z-8)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Кредитный Банк
+- Отдел Обеспечения -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>"How many %Z-8 do you want to borrow?"</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>"%Z-8... так сколько вам нужно?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Resource Department -}
+
+"Don't worry, we'll keep this offer open for you. Come back whenever you want."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Отдел Обеспечения -}
+
+"Не беспокойтесь, предложение остается в силе . Возвращайтесь когда пожелаете."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Resource Department -}
+
+"Here you are. It was a pleasure doing business with you."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Отдел Обеспечения -}
+
+"Отлично.  Приятно было иметь с вами дело."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Gold Department -}
+
+"We take a fee of {%Y4} {Gold} today, so you still owe us {%Y5} {Gold}. We'll come back tomorrow."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Финансовый Отдел -}
+
+"Мы забираем %Y4 золотом сегодня, в погашение долга, 
+и вы все еще должны нам %Y5. Мы навестим вас завтра."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Gold Department -}
+
+"Congratulations. You've paid your last installment of {%Y4} {Gold}. Feel free to visit us again."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Финансовый Отдел -}
+
+"Поздравляем. Вы выплатили ваш последний взнос - %Y4 золотом.
+Будем рады снова видеть вас, если вам будет угодно заглянуть."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Resource Department -}
+
+"We take a fee of {%Y4} {%Z-1} today, so you still owe us {%Y5} {%Z-1}. We'll come back tomorrow."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Отдел Обеспечения -}
+
+"Мы забираем %Z-1 (%Y4) сегодня, в погашение долга, 
+и вы все еще должны нам %Y5. Мы навестим вас завтра."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Resource Department -}
+
+"Congratulations. You've paid your last installment of {%Y4} {%Z-1}. Feel free to visit us again."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Отдел Обеспечения -}
+
+"Поздравляем. Вы выплатили ваш последний взнос - %Y4 (%Z-1).
+Будем рады снова видеть вас, если вам будет угодно заглянуть."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Gold Department -}
+
+"I'm sorry, but you can't borrow more than the current maximum of {%X1} {Gold}."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Финансовый Отдел -}
+
+"Прошу прощения, но вы не можете занять больше, чем %X1 золотых."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Gold Department -}
+
+"I'm sorry, but negative values can't be borrowed."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Финансовый Отдел -}
+
+"Мне жаль, но мы не выдаем суммы меньше нуля."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Resource Department -}
+
+"I'm sorry, but you can't borrow more than the current maximum of {%X1} {%Z-8}."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Отдел Обеспечения -}
+
+"Прошу прощения, но вы не можете занять больше, чем %X1 (%Z-8)."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Loan Bank}
+{- Resource Department -}
+
+"I'm sorry, but negative values can't be borrowed."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Кредитный Банк}
+{- Отдел Обеспечения -}
+
+"Мне жаль, но количество меньше нуля мы выдать не сможем."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Resource Trading Post}
+
+"Unfortunately, you have no Resources at all, so there's nothing to trade. Maybe time is on your side ..."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Центр Торговли Ресурсами}
+
+"К сожалению, у вас вообще нет ресурсов, а значит - вам нечем торговать. Возможно время играет на вас..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Gold</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Золото</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mithril</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Мифрил</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Resource Trading Post
+
+Select Resource to be transferred:</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Центр Торговли Ресурсами
+
+Выберите ресурсы для передачи:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No, thanks. I've changed my mind.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Нет, спасибо. Я передумал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Red Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Красному Игроку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Blue Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Синему Игроку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tan Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Коричневому Игроку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Green Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Зеленому Игроку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Orange Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Оранжевому Игроку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Purple Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Пурпурному Игроку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Teal Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Бирюзовому Игроку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pink Player</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Розовому Игроку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Resource Trading Post
+
+Transfer %Z-9 to...</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Центр Торговли Ресурсами
+
+Передать %Z-9...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Nobody. I've changed my mind.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Никому. Я передумал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Resource Trading Post
+
+You have %Y11 %Z-2.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Центр Торговли Ресурсами
+
+У вас %Y11 (%Z-2).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Enter quantity of %Z-2 to be transferred:</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>%Z-2 - введите передаваемое количество:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Resource Trading Post}
+
+"Maybe you want to trade another day. Feel free to visit us again."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Центр Торговли Ресурсами}
+
+"Возможно, вы захотите поторговать в другой день. Будем рады вашему визиту."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>have</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>было</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>has</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>было</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Resource Trading Post}
+
+"%V1 %Z-2 %Z-3 been transferred to the %Z-1."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Центр Торговли Ресурсами}
+
+"%V1 (%Z-2) %Z-3 передано %Z-1."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Resource Trading Post}
+
+"You can only give what you have. Not more, but less..."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Центр Торговли Ресурсами}
+
+"Вы можете отдать только то, что имеете. Не больше, но можно и меньше..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Resource Trading Post}
+
+"I'm sorry, but negative values can't be transferred."</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>{Центр Торговли Ресурсами}
+
+"Извините, но нельзя передавать количество меньше нуля."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Transfer ALL Resources including Gold and Mithril to...</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Передать ВСЕ ресурсы, включая Золото и Мифрил...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Nobody. I've changed my mind.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Никому. Я передумал.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All your resources have been transferred to the %Z3.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>Все ваши ресурсы были переданы %Z3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You have no resources
+to transfer.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203342Z">
+        <seg>У вас нет ресурсов,
+доступных для передачи.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

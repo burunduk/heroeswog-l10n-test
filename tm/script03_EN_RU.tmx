@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Speculum}</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>{Телескоп}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Speculum increases your Scouting radius by +1, and gives you an extra Rogue a day if you have Scouting.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>Телескоп увеличивает Радиус Разведки на 1 поле, и привлекает дополнительно 1-го вора в день, если вы обучены Разведке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Spyglass}</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>{Подзорная Труба}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This Spyglass increases your Scouting radius by +1, and gives you an extra Rogue a day if you have Scouting.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>Подзорная Труба увеличивает Радиус Разведки на 1 поле, и привлекает дополнительно 1-го вора в день, если вы обучены Разведке.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z70 would learn a spell through Eagle Eye, but %Z-3 doesn't have a spell book.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>Вы могли бы выучить заклинание за счет Орлиного Глаза, но у вас нет книги заклинаний.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Eagle} {Eye}
+
+Through the power of Eagle Eye, %Z70 learns a spell!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>За счет Орлиного Глаза, вы можете выучить заклинание.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Choose which spell to learn.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>Выберите заклинание для изучения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>him</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>ему</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>her</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>ей</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z470's powers of Resistance let %Z471 ignore the upgrades of some of %Z-1!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>Поскольку %Z470 обладает силой Сопротивления, это позволяет %Z471 игнорировать улучшение некоторых существ в армии противника!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z470's powers of Resistance let %Z471 ignore the upgrades of some of %Z-2!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>Поскольку %Z470 обладает силой Сопротивления, это позволяет %Z471 игнорировать улучшение некоторых существ в армии противника!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z470 learns.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>%Z470 учится.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{enabled}</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>{включено}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{disabled}</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>{отключено}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z273     
+
+Daily Rogue status: %Z-1
+
+Do you wish to change the status to %Z-2?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>%Z273     
+
+Статус появления воров раз в день: %Z-1
+
+Вы желаете изменить статус на %Z-2?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z274     
+
+Daily Rogue status: %Z-1
+
+Do you wish to change the status to %Z-2?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>%Z274     
+
+Статус появления воров раз в день: %Z-1
+
+Вы желаете изменить статус на %Z-2?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z275     
+
+Daily Rogue status: %Z-1
+
+Do you wish to change the status to %Z-2?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>%Z275     
+
+Статус появления воров раз в день: %Z-1
+
+Вы желаете изменить статус на %Z-2?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>he</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>он</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>He</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>Он</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>she</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>она</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>She</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>Она</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>his</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>его</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>her</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>ее</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z70 is tired of learning all these spells!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>%Z70 чувствует усталость от изучения всех этих заклинаний!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z72 meditates for a while and forgets everything about {Eagle} {Eye}, freeing %Z73 mind for more learning...</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>%Z72 медитирует некоторое время и забывает все о навыке {Орлиный} {Глаз}, %Z73 сознание освобождается для дальнейшей учебы...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Eagle} {Eye}
+
+%Z70 already has knowledge of all %Z-2 level spells and therefore %Z71 can only learn one of %Z-1 level!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>{Базовый} {Орлиный} {Глаз}
+
+%Z70 уже знает все заклинания второго уровня и поэтому %Z71 может выучить только одно из заклинаний первого!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Eagle} {Eye}
+
+%Z70 already has knowledge of all %Z-1 level spells and therefore %Z71 can only learn one of %Z-2 level!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>{Базовый} {Орлиный} {Глаз}
+
+%Z70 уже знает все заклинания первого уровня и поэтому %Z71 может выучить только одно из заклинаний второго!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Eagle} {Eye}
+
+%Z70 already has knowledge of all spells available with %Z73 {Eagle} {Eye} and Wisdom skills!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>{Базовый} {Орлиный} {Глаз}
+
+%Z70 уже знает все заклинания доступные при %Z73 навыке {Орлиного} {Глаза} и Мудрости!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z72 maybe has use for it later...</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>%Z72 стоит перед необходимостью улучшить эти навыки перед изучением новых заклинаний!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Eagle} {Eye}
+
+%Z70 is tired of learning all these spells!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>%Z70 чувствует усталость от изучения всех этих заклинаний!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>%Z72 meditates for a while and forgets everything about {Eagle} {Eye}, freeing %Z73 mind for more learning...</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>%Z72 медитирует некоторое время и забывает все о навыке {Орлиный} {Глаз}, %Z73 сознание освобождается для дальнейшей учебы...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>the neutral Monsters</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T202226Z">
+        <seg>нейтральных монстров</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

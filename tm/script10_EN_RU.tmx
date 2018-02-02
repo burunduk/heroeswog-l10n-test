@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Magic Water Mushroom (Not Visited)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>Гриб Магии Воды (Не посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Magic Water Mushroom (Visited)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>Гриб Магии Воды (Посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Magic Fire Mushroom (Not Visited)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>Гриб Магии Огня (Не посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Magic Fire Mushroom (Visited)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>Гриб Магии Огня (Посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Magic Earth Mushroom (Not Visited)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>Гриб Магии Земли (Не посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Magic Earth Mushroom (Visited)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>Гриб Магии Земли (Посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Magic Air Mushroom (Not Visited)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>Гриб Магии Воздуха (Не посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Magic Air Mushroom (Visited)</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>Гриб Магии Воздуха (Посещено)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Water Mushroom} 
+ 
+The Magic Water Mushroom gives Expert Water Magic until the end of the week... 
+ 
+Since you already have Expert Water Magic, the mushroom can't help you.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Воды} 
+ 
+Гриб Магии Воды делает вас Экспертом в Магии Воды до конца недели... 
+ 
+Если вы уже Эксперт в Магии Воды, Гриб ничего не может сделать для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Water Mushroom} 
+ 
+You have already visited a Magic Water Mushroom this week. 
+Try again next week.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Воды} 
+ 
+Вы уже посещали Гриб Магии Воды на этой неделе 
+Попытайтесь снова на следующей неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Water Mushroom} 
+ 
+The Magic Water Mushroom gives Expert Water Magic until the end of the week... 
+ 
+You inhale the spores of the magic mushroom... 
+ 
+You learn Expert Water Magic!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Воды} 
+ 
+Гриб Магии Воды делает вас Экспертом в Магии Воды до конца недели... 
+ 
+Вы вдохнули споры магического гриба... 
+ 
+Вы научились Экспертной Магии Воды!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Fire Mushroom} 
+ 
+The Magic Fire Mushroom gives Expert Fire Magic until the end of the week... 
+ 
+Since you already have Expert Fire Magic, the mushroom can't help you.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Огня} 
+ 
+Гриб Магии Огня делает вас Экспертом в Магии Огня до конца недели... 
+ 
+Если вы уже Эксперт в Магии Огня, Гриб ничего не может сделать для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Fire Mushroom} 
+ 
+You have already visited a Magic Fire Mushroom this week. 
+Try again next week.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Огня} 
+ 
+Вы уже посещали Гриб Магии Огня на этой неделе 
+Попытайтесь снова на следующей неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Fire Mushroom} 
+ 
+The Magic Fire Mushroom gives Expert Fire Magic until the end of the week... 
+ 
+You inhale the spores of the magic mushroom... 
+ 
+You learn Expert Fire Magic!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Огня} 
+ 
+Гриб Магии Огня делает вас Экспертом в Магии Огня до конца недели... 
+ 
+Вы вдохнули споры магического гриба... 
+ 
+Вы научились Экспертной Магии Огня!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Earth Mushroom} 
+ 
+The Magic Earth Mushroom gives Expert Earth Magic until the end of the week... 
+ 
+Since you already have Expert Earth Magic, the mushroom can't help you.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Земли} 
+ 
+Гриб Магии Земли делает вас Экспертом в Магии Земли до конца недели... 
+ 
+Если вы уже Эксперт в Магии Земли, Гриб ничего не может сделать для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Earth Mushroom} 
+ 
+You have already visited a Magic Earth Mushroom this week. 
+Try again next week.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Земли} 
+ 
+Вы уже посещали Гриб Магии Земли на этой неделе 
+Попытайтесь снова на следующей неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Earth Mushroom} 
+ 
+The Magic Earth Mushroom gives Expert Earth Magic until the end of the week... 
+ 
+You inhale the spores of the magic mushroom... 
+ 
+You learn Expert Earth Magic!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Земли} 
+ 
+Гриб Магии Земли делает вас Экспертом в Магии Земли до конца недели... 
+ 
+Вы вдохнули споры магического гриба... 
+ 
+Вы научились Экспертной Магии Земли!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Air Mushroom} 
+ 
+The Magic Air Mushroom gives Expert Air Magic until the end of the week... 
+ 
+Since you already have Expert Air Magic, the mushroom can't help you.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Воздуха} 
+ 
+Гриб Магии Воздуха делает вас Экспертом в Магии Воздуха до конца недели... 
+ 
+Если вы уже Эксперт в Магии Воздуха, Гриб ничего не может сделать для вас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Air Mushroom} 
+ 
+You have already visited a Magic Air Mushroom this week. 
+Try again next week.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Воздуха} 
+ 
+Вы уже посещали Гриб Магии Воздуха на этой неделе 
+Попытайтесь снова на следующей неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Magic Air Mushroom} 
+ 
+The Magic Air Mushroom gives Expert Air Magic until the end of the week... 
+ 
+You inhale the spores of the magic mushroom... 
+ 
+You learn Expert Air Magic!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203945Z">
+        <seg>{Гриб Магии Воздуха} 
+ 
+Гриб Магии Воздуха делает вас Экспертом в Магии Воздуха до конца недели... 
+ 
+Вы вдохнули споры магического гриба... 
+ 
+Вы научились Экспертной Магии Воздуха!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Junk Merchant</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Старьевщик</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You know what's better than that? ... I'll tell you!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Тебе известно что-нибудь лучше, чем это? ... Я тебе расскажу!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pal! Buddy! Glad to see you! C'mon in, c'mon in! Step into the light where I can see you better! I'm the "Junk Merchant" in these parts - I buy your useless junk and give you great stuff! What a deal! Let's see whatcha got...</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Друг! Приятель! Рад видеть тебя! Заходи! Выйди на свет, чтобы я мог разглядеть тебя получше! Я Старьевщик - я покупаю бесполезное для тебя старье и даю тебе великолепное барахлишко! Вот это сделка! Давай посмотрим...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Centaur Axe! %Z329Centaurs! What's an Axe with no Centaurs! Am I right? I'll give you... oh, I can be generous... 50 Centaur Captains for the Axe.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Секира Кентавра! %Z329Кентавры! Что за Секира без Кентавров! Я прав? Я дам тебе... ух, я могу быть щедрым, да... 50 Капитанов Кентавров за Секиру.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You won't regret it!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ты не пожалеешь об этом!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Shield Of The Dwarven Lords! %Z329Dwarves! They're better! I'm such a great guy, I'll give you... say... 15 Battle Dwarves for the Shield.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Щит Гномьих Героев! %Z329Гномы! Они лучшие! Я такой классный парень, я дам тебе... скажем... 15 Боевых Гномов за Щит.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Those Dwarves will really work for you, you'll see!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Эти Гномы будут по-настоящему служить тебе, ты увидишь!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Buckler Of The Gnoll King! %Z329A Targ Of The Rampaging Ogre! +5 instead of +4! It's just better! I must be crazy but I'll do it! I'll give you the Targ for the Buckler!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Великий Гноллий Кистень! %Z329Карающая Дубина Огра! +5 вместо +4! Это гораздо лучше! Я должно быть сошел с ума, но я сделаю это! Я дам тебе Дубину за Кистень!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ah, one born every minute.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ах, каждую минуту кто-то рождается.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Helm Of The Alabaster Unicorn! What junk! %Z329Unicorns! And to build their glade you need gems! Which is what I'll give you! 5 gems!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Шлем Белого Единорога! Какое старье! %Z329Единороги! И для постройки их поляны тебе нужны драгоценные камни! Вот что я дам тебе! 5 драгоценных камней!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Great! To build a unicorn glade you'll need 5 more gems... get them from a leprechaun!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Великолепно! Для постройки Поляны Единорогов тебе понадобятся еще 5 драгоценных камней... возьми их у эльфа!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Breastplate Of Petrified Wood! You're actually wearing that? Tell you what, give me the Breastplate, and I'll teach you +1 spell power! Like a Breastplate without having to wear it!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Нагрудник из Окаменелого Дерева! На тебе ведь это надето? Скажу тебе вот что, дай мне Нагрудник, и я дам тебе +1 Силы! Как и Нагрудник, но без необходимости надевать его!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Great! I can use it for firewood or something!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Отлично! Я могу использовать это как дрова или еще что-нибудь!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Clover Of Fortune! Blimey! You're still using garbage like that? I suppose I could take it off your hands for... I dunno... 1500 gold.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Клевер Удачи! Иди ты! Ты до сих пор пользуешься подобным мусором? Я думаю я мог бы обменять это на ... Я дууумаааюю... 1500 золотых!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Yeeha! Now I'm the lucky one!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Йе-х-ха! Я теперь везунчик!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cards Of Prophecy! What junk! You wanna know the future, just wet your finger and hold it in the wind, pal! Tell you what, I'll take the Cards from you for... say... 1500 gold.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Карты Пророчества! Какое старье! Ты хочешь знать будущее? Просто намочи палец и подержи на ветру, дружище! Вот что я тебе скажу, я заберу у тебя карты, а взамен я дам тебе... скажем... 1500 золотом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cards! At last! Now I can open my own tavern!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Карты! Наконец-то! Теперь я могу открыть собственную таверну!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Ladybird Of Luck! Are you superstitious or what, pal? Aw, I'm kidding you! That's a fine... thingie. I'll give you 1500 gold for it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Голубка Удачи! Ты суеверный что ли, братан? О-о, я пошутил! Вот и прекрасно... подумаем... Я дам тебе 1500 золотом за нее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Great! Just 3 more artifacts and I'll win the scavenger hunt!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Класс! Еще 3 артефакта и я выиграю охоту за мусором!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Badge Of Courage! What'd you do, save a dog from a burning building? I suppose I could melt it down... I'll give you 1500 gold for it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Значок Смелости! И что ты сделал, спас собачку из горящего здания? Я полагаю, я мог бы переплавить его... Я дам тебе 1500 золотом за него.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Great! Who needs a badge when you've got courage, right?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Великолепно! Кому нужен Значок, если есть смелость, так?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Crest Of Valor! Runs in the family, huh? Well, it's kind of pretty. I could part with... say... 1500 gold for it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Герб Доблести! Семейная реликвия, хэх? Хорошо, своего рода сувенир. Я могу поменять его на... скажем, 1500 золотом?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You're better off without it, believe me!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Тебе без него лучше, поверь мне!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Glyph Of Gallantry! Man, I thought they stopped making these! Don't they have +2 morale artifacts now? Well, for the nostalgia of it, I could give you... maybe... 1500 gold for it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Знак Отваги! Парень, я думал их не делают больше! У кого-нибудь есть артефакт, сильнее повышающий боевой дух? Ладно, за ностальгию, я мог бы дать тебе... возможно... 1500 золотом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>What a collector's item! I'm rich!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Коллекционная штучка! Я богат!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Speculabob! I mean Speculum! What utter crud! %Z329A map! Just a map of the neighborhood! I'll give you a map of these parts for the Specuthingie.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Телевизор! То есть я имею ввиду Телескоп! Что за корка! %Z329Карта! Просто карта окрестностей! Я дам тебе карту этих мест за Теле... в общем, эту штуковину.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You can look at the map after you step outside the shop, pal.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Взгляни на карту, когда выйдешь на улицу, дружок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Spyglass! Man, isn't that like the worst artifact ever? Just totally useless! But I'm such a pal, I'll give you, I'll give you, thirt... no... fift... Uh... I'll give you 1830 gold for it!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Подзорная Труба! Чел, разве это не худший артефакт из всех? Абсолютно бесполезный! Но я как друг, дам тебе... Я дам тебе... четв... нет... пят... ух... Я дам тебе 1830 золотом за нее!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Yeeha! My own spyglass! I've got lots of completely moral things to do with this!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Йе-х-ха! Моя собственная Подзорная Труба! У меня множество абсолютно этичных идей по ее использованию!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An Amulet Of The Undertaker! Spooky! Those are bad luck, you know. I'll take it off of you for... I dunno... 600 gold. That's all it's worth, if you want to know the truth.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Амулет Гробовщика! Невзрачный! Неудачно, знаешь ли. Я заберу его в обмен на... Я дууу... 600 золотом. Большего он не стоит, если по-правде.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ha ha! Now I can build the Cloak Of The Undead King! Sandro, look out!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ха ха! Теперь я могу собрать Плащ Короля Нежити! Сандро, взгляни!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Vampire's Cowl! I thought you guys couldn't go out in daylight? Just kidding! Well it's a nice conversation piece. I'll give you... what... 2500 gold for it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Мантия Вампира! Я думал вы, ребята, не можете разгуливать средь бела дня? Шучу! Ладно это приятная, мирная беседа. За мантию я тебе дам... шо?.. 2500 золотом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bwahaha. Everything goes according to my plan. I mean, uh, thanks! Pleasure doing business!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Бха-ха-ха. Все идет по плану. В смысле, ух, спасибо! Приятно иметь с тобой дело!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dead Man's Boots! Where did you get those? They're awfully scarce in these parts! In fact I'll give you... 2000 gold for them!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Сапоги Мертвеца! Хде ты их взял-то? Они ужасно редки в этой местности! Фактически я готов тебе заплатить... 2000 золотом за них!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You'll never miss them!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ты не будешь скучать по ним!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Surcoat Of Counterpoise! That would go great with my Surpants Of Counterpoise! I've gotta have it! I'll give you... 4000 gold for it!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Мантия Равновесия! Это будет отлично смотреться с моими Штанами Равновесия! Я хочу это иметь! И дам тебе... 4000 золотом!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Man, it fits like a glove! Do I look spiffy or what!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Мужик, подходит как перчатка! Я выгляжу щегольски или как?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Bird Of Perception! %Z329Birds! Griffins even! Much better than a little statue! I'm such a guy, I'll give you... 15 Royal Griffins for it!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Птица Познания! %Z329Птички! Даже грифоны! гораздо лучше маленькой статуэтки! Я такой человек, я тебе дам за нее... 15 Королевских Грифонов!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sucker!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Дитя!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Statesman's Medal! I guess I should call you "sir" or something, huh pal? Just kidding! Well it's a little tarnished... I'll give you... 10 crystals for it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Медаль Диплодока! Тьфу! Дипломата Медаль! Я догадываюсь что к тебе следует обращаться "сир" или что-то вроде, хэх, друг? Ш'ютка! Хорошо, она тускловата слегка... Дам что ли я тебе... 10 кристаллов за нее.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Thanks! Now I can impress my friends!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ну спасибо! Мои друзья будут поражены просто!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Diplomat's Ring! What did you do, take it off a corpse? Just kidding! Sheesh you're sensitive! Tell you what, to make it up to you, I'll give you... 10 gems for it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Кольцо Дипломата! Что ты с ним сделал, с трупа снял что ли? Ну шучу, что такого! Гм... чувствительный какой! Скажу тебе вот что, только для тебя, даю за него... 10 драгоценных камней.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You got a real bargain there, pal!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ты настоящую сделку заключил, дружище!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An Ambassador's Sash! Where are you from, Enroth? Well what does an Ambaddador need but castles? And how do you build castles? Sometimes, with mercury! Lotsa mercury! I'll give you 10 mercury for the Sash.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Лента Посла! Откуда ты, небось из Энрота? Ладно, что нужно Послу кроме замков? И как ты строишь замки? Иногда, со ртутью! Много ртути! Я тебе дам 10 ртути за Ленту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Great! Hope it doesn't get drafty without it! I'd throw in a Scarf Of Holiness, but I'm fresh out!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Здорово! Надеюсь, ты не простудишься без нее! Я бы подбросил Шарф Святости, но... а... забудь!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Necklace Of Ocean Guidance! Man, somebody got to you before me, I can tell! What a gyp! You know what sailing around gets you? Nothing but wood! Mounds and mounds of sea debris! To save you time, I'll give you 15 wood for the Necklace.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ожерелье Морского Проведения? Приятель, кто-то добрался до тебя раньше меня, ну что тут скажешь! Жулик! Знаешь, что ты можешь нарыбачить в округе? Дерево и ничего более! Кучи, кучи обломков! Чтобы сохранить твое время, я дам тебе 15 дерева за ожерелье.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Put it to good use, pal!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Используй его с умом, друже!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Angel Wings! Overrated, pal! %Z329Angels! Archangels, even! No wait, Supreme Archangels! That's right! I'll give you... er... 2 Supreme Archangels for the wings.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Крылья Ангела! Ты их переоцениваешь, братец! %Z329Ангелы! Архангелы даже! Нет погоди, Верховные Архангелы! Точно! Я дам тебе... э... 2 Верховных Архангелов за крылья.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>You did the right thing, pal! They're awesome!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ты правильно поступил, приятель! Они - СИЛА!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Charm Of Mana! What a useless toy! One spell point a day! Tell you what, pal, I'll give you 60 spell points for it! That's like two months from the Charm!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Амулет Маны! Что за бесполезная игрушка! Одно очко магии в день! Знаешь что, приятель, Я дам тебе 60 очков магии за него! Это двухмесячная работа амулета</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Now you can cast all the really big spells!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Теперь ты можешь творить понастоящему сильные заклинания!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Collar Of Conjuring! Man, does that chafe your neck or what? Tell you what, to show you what a great guy I am, give me the Collar and I'll teach you the best spell ever! That's right, Slow!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Магическая Медаль Маны! Чел, эта штука тебе шею не натерла? Знаешь, чтобы показать тебе какой я клевый парень, дай мне медальку и я обучу тебя лучшему заклинанию в мире! Ну конечно, Замедлению!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It's best with Earth Magic! You heard it here first!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Оно лучше, если знаешь Магию Земли! Ты слышал об этом?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Recanter's Cloak! Well, at least it keeps the rain off your back! You know what else keeps the rain off your back? Money! If you buy a house with it! I'll give you 2500 gold for the Cloak.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Плащ Отречения! Ну, покрайней мере он защищает твою спину от дождя! А знаешь, что еще защищает от дождя? Деньги! Если на них купить дом! Я дам тебе 2500 золотом за плащ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Great! Now I just need to figure out what this Cloak does!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Здорово! Теперь мне нужно только узнать как этот плащ работает!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Spirit Of Oppression! You've gotta be kidding! No-one would ever want that except maybe a necrom... hmmm. Hey, maybe if I shine it up, it might look good on my mantle. I'll give you 2000 gold for it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Дух Уныния! Над тобою подшутили! Это не нужно никому кроме разве что некром... ой! хм... Эй, может если я его надраю, он неплохо украсит мою мантию. А тебе я дам 2000 золотом за это.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Your troops will thank you, believe me!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Твои солдаты тебе спасибо скажут, поверь мне!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An Hourglass Of The Evil something! What trash! I think I just threw one of those away - were you rooting around in my garbage? Just kidding! Aw, I'm a sucker for a sad face. I'll give you 500 gold for it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Песочные Часы Недоброго чего-то там! Какой мусор! По моему я только что выбросил одни такие - ты что, копался в моем мусоре? Просто пошутил! О, дитя с печальным лицом. Я дам тебе за него 500 золотых.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>{Foolish mortal!} Who said that?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>"{Глупый смертный!}" Кто это сказал? Ты?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Sphere Of Permanence! Wow, completely immune to Dispel! Hold me back! You know what you need, pal? Some experience! So you don't use junk like that! Give me the Sphere, I'll teach you a lesson worth 2000 experience.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Шар Постоянства! Вай, Полный иммунитет к Рассеиванию! Держите меня четверо! Знаешь что тебе нужно, приятель? Немного опыта! Тогда ты не будешь пользоваться подобным старьем! Дай мне Шарик, и я преподам тебе урок на 2000 очков опыта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Lesson one: Don't use the Sphere Of Permanence! See, you're smarter already!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Урок первый: Не пользуйся Шаром Постоянства! Вижу, ты уже поумнел!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An Orb Of Vulnerability! Makes a nice paperweight, doesn't it! Aw, I pity you, pal, I really do. Out of the goodness of my heart, I'll give you an Orb Of The Firmament for your Orb.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Медаль Уязвимости! Красивое пресс-папье, не так ли? О, мне жаль тебя, братан, действительно жаль. От всего сердца, я дам тебе Сферу Небесного Свода за твою медаль.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It's not so hot either, but it's something, pal.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Не такая уж и горячая, но это что-то, дружище.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Pendant Of Negativity! What are you, a scaredy cat? %Z329A Lightning Bolt of your own! Just frying everything in sight! I'll teach you Lightning Bolt in exchange for the Pendant.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Брелок Отрицательности! Ты кто, трусливая кошка? %Z329Собственная Молния! Просто испепеляет все в поле зрения! Я научу тебя Молнии в обмен на брелок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The next time you Bolt something, think of me!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>В следующий раз, когда грохнете куда-нибудь, вспомните обо мне!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Legs Of Legion! Those belong in a museum! Just kidding! They aren't worth the rock they're carved out of! Which is what I'm offering you! 15 Ore for the Legs.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ноги Легиона! Собственность Музея! Пошутил! Они не стоят и камня, из которого выточены! Что я тебе предложу! 15 руды за Ножки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Am I generous or what!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Я щедрый или как?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Well, unless there's something else you want to take off and show me, I guess we won't be doing business today. No hard feelings though - come back anytime!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Хорошо, когда-нибудь принесешь мне еще что нибудь, на что стоит посмотреть, а сегодня, похоже, бизнеса не будет. Только не злись - возврашайся в любое время!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Always a pleasure doing business! Come back when you have more junk!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Делать бизнес - это всегда приятно! Возвращайся, когда наберешь еще всякого барахла!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Whew, you sure were carrying a lot of junk! I don't know how I'll ever sell it! Oh well! That's my lot in life! Come back when you have more!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Фи, ты притащил кучу мусора! Мне этого никогда не продать! Ну ладно! Такова моя доля! Приноси еще!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Deal?</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Согласен?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Your loss.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ты пожалеешь...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Whatever, pal.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Что угодно, приятель.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Your call.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Твой вызов.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Oh, you're saving it. Okay.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ох, сохрани это. О'кей.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Well, if you've got a better offer, I won't stand in your way.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ну, если у тебя есть предложение получше, я не встану у тебя на пути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fine. Be that way.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Прекрасно. Да будет так.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>I hope you know what you're doing.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Я надеюсь, ты знаешь, что делаешь.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Well you don't have to get all huffy about it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ладно, тебе не следует обижаться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Too bad you don't have a spell book, pal!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Жаль что у тебя нет Книги Заклинаний, приятель!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Scroll of something! Man, I've been seeing a lot of these! Well, I suppose I can give you something for it. What is it again? %Z330? Whatever! I'll give you 500 gold for it.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Какой-то свиток! Друг, я насмотрелся на кучи таких! Ладно, Я полагаю мы можем договориться. Что это опять? %Z330? Все равно! Получишь 500 монет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Another scroll! %Z330 this time? Hoo boy! My lucky day! Well, same offer, 500 gold.</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Еще один свиток! %Z330 теперь? Ну-у-у-у, парень! Твой счастливый день! Хорошо, те же условия - 500 монет.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Great! Maybe I can reuse the paper or something!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Отлично! Возможно я найду применение этой бумажке!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>At last! A scroll of my own!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Ну наконец-то! Мой собственный свиток!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Thanks! Enough of these, and I can make my own book!</seg>
+      </tuv>
+      <tuv xml:lang="RU" creationid="OmegaT Aligner" creationdate="20180131T203625Z">
+        <seg>Спасибо! У меня их уже на целую книгу набралось!</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

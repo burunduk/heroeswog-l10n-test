@@ -243,8 +243,9 @@ to include WoG features (and then another message when it's done).</seg>
       <tuv lang="EN">
         <seg>Continue playing at your own risk.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114415Z" creationid="olexandr" creationdate="20180204T114415Z">
-        <seg>Вы можете продолжать игру на свой страх и риск.</seg>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T115225Z" creationid="olexandr" creationdate="20180204T114415Z">
+        <seg>
+Вы можете продолжать игру на свой страх и риск.</seg>
       </tuv>
     </tu>
     <tu>

@@ -792,8 +792,8 @@ by pressing 'S' and then clicking on the WoG Options button.</seg>
       <tuv lang="EN">
         <seg>Set AI Experience Multiplier.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114316Z" creationid="olexandr" creationdate="20180204T114316Z">
-        <seg>Получение опыта компьютером.</seg>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114956Z" creationid="olexandr" creationdate="20180204T114316Z">
+        <seg>Задать темп получения опыта компьютером.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,5 +1230,15 @@ Although WoGification has been cancelled, most ongoing WoGify scripts will remai
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">script00.ert</prop>
+      <prop type="id">100007</prop>
+      <tuv lang="EN">
+        <seg>Set AI Experience Multiplier.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T115053Z" creationid="olexandr" creationdate="20180204T115053Z">
+        <seg>Получение опыта компьютером.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>

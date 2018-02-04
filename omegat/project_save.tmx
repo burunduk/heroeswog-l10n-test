@@ -214,6 +214,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>After this message, there will be a delay while the map is converted 
+to include WoG features (and then another message when it's done).</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114237Z" creationid="olexandr" creationdate="20180204T114237Z">
+        <seg>После этого сообщения, некоторое время займет 
+преобразование карты, инициирующее новые возможности WoG. (затем появится сообщение об окончании этого процесса).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Also,</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204417Z" creationid="olexandr" creationdate="20180131T204417Z">
@@ -226,6 +236,14 @@
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204406Z" creationid="olexandr" creationdate="20180131T204406Z">
         <seg>Дублирование артефактов</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Continue playing at your own risk.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114415Z" creationid="olexandr" creationdate="20180204T114415Z">
+        <seg>Вы можете продолжать игру на свой страх и риск.</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +288,89 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Currently:    %Y2%%  (%Z2)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114317Z" creationid="olexandr" creationdate="20180204T114317Z">
+        <seg>Сейчас: %Y2%% (%Z2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currently:    %Y5%%</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114320Z" creationid="olexandr" creationdate="20180204T114320Z">
+        <seg>Сейчас: %Y5%%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currently:    +%Y3  (%Z3)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114326Z" creationid="olexandr" creationdate="20180204T114326Z">
+        <seg>Сейчас: +%Y3  (%Z3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currently:    x%Y4  (%Z4)</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114325Z" creationid="olexandr" creationdate="20180204T114325Z">
+        <seg>Сейчас: x%Y4  (%Z4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currently:  %Y2%% (%Z2)
+
+%Z-9</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114333Z" creationid="olexandr" creationdate="20180204T114333Z">
+        <seg>Текущее:  %Y2%% (%Z2)
+
+%Z-9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currently:  %Y5%%</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114336Z" creationid="olexandr" creationdate="20180204T114336Z">
+        <seg>Текущее:  %Y5%%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currently:  +%Y3 (%Z3)
+
+%Z-9</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114343Z" creationid="olexandr" creationdate="20180204T114343Z">
+        <seg>Текущее:  +%Y3 (%Z3)
+
+%Z-9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Currently:  x%Y4 (%Z4)
+
+%Z-9
+
+Note: If AI Experience Multiplier is 0, Town Garrisons
+will receive 0 experience regardless of this value.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114340Z" creationid="olexandr" creationdate="20180204T114340Z">
+        <seg>Текущее:  x%Y4 (%Z4)
+
+%Z-9
+
+Важно: Если темп роста опыта компьютера ноль, гарнизоны 
+его городов будут получать ноль опыта, независимо от  
+того, что вы введете сейчас.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Does %Z354 wish to learn this?</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T205102Z" creationid="olexandr" creationdate="20180131T205102Z">
@@ -294,6 +395,62 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Easier than Easy</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114349Z" creationid="olexandr" creationdate="20180204T114349Z">
+        <seg>Легче легкого</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Easy</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114350Z" creationid="olexandr" creationdate="20180204T114350Z">
+        <seg>Легко</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Easy/Normal</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114352Z" creationid="olexandr" creationdate="20180204T114352Z">
+        <seg>Легко/Нормально</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enjoy yourself...or ELSE!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114309Z" creationid="olexandr" creationdate="20180204T114309Z">
+        <seg>Приятной игры... удачи!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Enter an integer value between 0 and 10000</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114345Z" creationid="olexandr" creationdate="20180204T114345Z">
+        <seg>Введите целое число от 0 до 10000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expert</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114356Z" creationid="olexandr" creationdate="20180204T114356Z">
+        <seg>Эксперт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Expert/Impossible</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114358Z" creationid="olexandr" creationdate="20180204T114358Z">
+        <seg>Эксперт/Невозможно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Fast creatures are slow, slow ones fast.</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204400Z" creationid="olexandr" creationdate="20180131T204400Z">
@@ -314,6 +471,30 @@
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204438Z" creationid="olexandr" creationdate="20180131T204438Z">
         <seg>За старания герой награжден артефактом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hard</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114355Z" creationid="olexandr" creationdate="20180204T114355Z">
+        <seg>Сложно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hard/Expert</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114355Z" creationid="olexandr" creationdate="20180204T114355Z">
+        <seg>Сложно/Эксперт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Harder than Impossible</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114400Z" creationid="olexandr" creationdate="20180204T114400Z">
+        <seg>Ни единого шанса</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +539,25 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Hint: You can view or save current WoGify options during the game
+by pressing 'S' and then clicking on the WoG Options button.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114239Z" creationid="olexandr" creationdate="20180204T114239Z">
+        <seg>ПОДСКАЗКА: Вы можете посмотреть или сохранить WoG-настройки
+во время игры, нажав 'S' и кликнув после этого 
+по кнопке WoG-настроек.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Impossible</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114359Z" creationid="olexandr" creationdate="20180204T114359Z">
+        <seg>Невозможно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Impressed by %Z326's interest in Birds, some Royal Griffins join %Z328 army.</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T205152Z" creationid="olexandr" creationdate="20180131T205152Z">
@@ -374,6 +574,54 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Invalid Spell Parameter: banning must be 0..3</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114412Z" creationid="olexandr" creationdate="20180204T114412Z">
+        <seg>Неправильный параметр заклинания: запрет должен быть в пределах: 0..3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid Spell Parameter: element must be 0..15</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114411Z" creationid="olexandr" creationdate="20180204T114411Z">
+        <seg>Неправильный параметр заклинания: элемент должен быть в пределах: 0..15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid Spell Parameter: maximum spell level must be 0..5</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114409Z" creationid="olexandr" creationdate="20180204T114409Z">
+        <seg>Неправильный параметр заклинания: максимальный уровень: 0..5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid Spell Parameter: minimum spell level must be 0..5</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114408Z" creationid="olexandr" creationdate="20180204T114408Z">
+        <seg>Неправильный параметр заклинания: минимальный уровень: 0..5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid Spell Parameter: number of spell exclusions must be 0..9</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114413Z" creationid="olexandr" creationdate="20180204T114413Z">
+        <seg>Неправильный параметр заклинания: число исключений может быть: 0..9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invalid Spell Parameter: spell type be 0..2</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114410Z" creationid="olexandr" creationdate="20180204T114410Z">
+        <seg>Неправильный параметр заклинания: тип заклинания: 0..2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>It's unclear what it's doing, but it seems to be doing something.</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T205137Z" creationid="olexandr" creationdate="20180131T205137Z">
@@ -386,6 +634,14 @@
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T205158Z" creationid="olexandr" creationdate="20180131T205158Z">
         <seg>Довольные, что %Z326 интересуется жизнью и ее символами, несколько Фей желают вступить в %Z328 армию.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Large maps may take a few minutes on slow systems.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114252Z" creationid="olexandr" creationdate="20180204T114252Z">
+        <seg>Преобразование больших карт может длиться несколько минут.</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +734,30 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114353Z" creationid="olexandr" creationdate="20180204T114353Z">
+        <seg>Нормально</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Normal/Hard</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114354Z" creationid="olexandr" creationdate="20180204T114354Z">
+        <seg>Нормально/Сложно</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Option changes CANNOT be made during a game from this screen.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114242Z" creationid="olexandr" creationdate="20180204T114242Z">
+        <seg>Изменить настройки из этого окна во время игры НЕЛЬЗЯ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Perpetual darkness.</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204407Z" creationid="olexandr" creationdate="20180131T204407Z">
@@ -486,10 +766,50 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Please select a Stack Experience value to change.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114314Z" creationid="olexandr" creationdate="20180204T114314Z">
+        <seg>Что именно из настроек получения опыта армиями вы хотите изменить?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Rogues ambush the unwary.</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204412Z" creationid="olexandr" creationdate="20180131T204412Z">
         <seg>Атаки воров</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set AI Additional Experience.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114325Z" creationid="olexandr" creationdate="20180204T114325Z">
+        <seg>Дополн. опыт для компьютера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set AI Experience Multiplier.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114316Z" creationid="olexandr" creationdate="20180204T114316Z">
+        <seg>Получение опыта компьютером.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set AI Town Garrison Multiplier.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114323Z" creationid="olexandr" creationdate="20180204T114323Z">
+        <seg>Гарнизоны в городах компьютера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set Human Experience Multiplier.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114319Z" creationid="olexandr" creationdate="20180204T114319Z">
+        <seg>Получение опыта игроком.</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,10 +862,43 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>The WoG Options button is located on the Scenario Selection screen.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114300Z" creationid="olexandr" creationdate="20180204T114300Z">
+        <seg>Кнопка WoG-настроек находится в окне выбора сценария.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To battle, Hero!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114313Z" creationid="olexandr" creationdate="20180204T114313Z">
+        <seg>К бою, Герой!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Try again next week.</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204302Z" creationid="olexandr" creationdate="20180131T204302Z">
         <seg>Попытайтесь снова на следующей неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use these values.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114327Z" creationid="olexandr" creationdate="20180204T114327Z">
+        <seg>Использовать эти значения.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WARNING: Since the map is "half-wogified" some scripts may not work as intended.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114414Z" creationid="olexandr" creationdate="20180204T114414Z">
+        <seg>ВНИМАНИЕ: Поскольку карта "наполовину WoG'ифицирована", 
+некоторые скрипты могут работать неправильно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,10 +919,56 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>WoGification complete!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114301Z" creationid="olexandr" creationdate="20180204T114301Z">
+        <seg>WoG'ификация завершена!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>WoGification is about to begin!</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114233Z" creationid="olexandr" creationdate="20180204T114233Z">
+        <seg>WoG'ификация начинается!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You find another %Z-1 near this one.</seg>
       </tuv>
       <tuv lang="RU" changeid="olexandr" changedate="20180131T204429Z" creationid="olexandr" creationdate="20180131T204429Z">
         <seg>Вы нашли еще один точно такой же артефакт рядом с первым.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[0=None, 100=Easy, 200=Normal
+300=Hard, 400=Expert, 500=Impossible]</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114402Z" creationid="olexandr" creationdate="20180204T114402Z">
+        <seg>[0=Нет, 100=Легко, 200=Нормально
+300=Сложно, 400=Эксперт, 500=Невозможно]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[0=None, 10=Easy, 25=Normal
+50=Hard, 75=Expert, 100=Impossible]</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114404Z" creationid="olexandr" creationdate="20180204T114404Z">
+        <seg>[0=Нет, 10=Легко, 25=Нормально
+50=Сложно, 75=Эксперт, 100=Невозможно]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>[0=None, 50=Easy, 100=Normal
+200=Hard, 300=Expert, 400=Impossible]</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114405Z" creationid="olexandr" creationdate="20180204T114405Z">
+        <seg>[0=Нет, 50=Легко, 100=Нормально
+200=Сложно, 300=Эксперт, 400=Невозможно]</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +1201,32 @@ You have already visited a Magic Water Mushroom this week.</seg>
         <seg>{Гриб Магии Воды} 
  
 Вы уже посещали Гриб Магии Воды на этой неделе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{Value Not in Allowed Range}
+
+You must enter a value
+between 0 and 10000.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114347Z" creationid="olexandr" creationdate="20180204T114347Z">
+        <seg>{Неверное значение}
+
+Вы должны ввести значение
+от 0 до 10000.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{WoGification Cancelled!}
+
+Although WoGification has been cancelled, most ongoing WoGify scripts will remain active.</seg>
+      </tuv>
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T114413Z" creationid="olexandr" creationdate="20180204T114413Z">
+        <seg>{WoG'ификация отменена!}
+
+Несмотря на то, что WoG'ификация была отменена, большинство уже включенных скриптов остаются активны.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

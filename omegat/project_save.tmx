@@ -217,9 +217,10 @@
         <seg>After this message, there will be a delay while the map is converted 
 to include WoG features (and then another message when it's done).</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114237Z" creationid="olexandr" creationdate="20180204T114237Z">
+      <tuv lang="RU" changeid="olexandr" changedate="20180204T115138Z" creationid="olexandr" creationdate="20180204T114237Z">
         <seg>После этого сообщения, некоторое время займет 
-преобразование карты, инициирующее новые возможности WoG. (затем появится сообщение об окончании этого процесса).</seg>
+преобразование карты, инициирующее новые возможности WoG. 
+(затем появится сообщение об окончании этого процесса).</seg>
       </tuv>
     </tu>
     <tu>

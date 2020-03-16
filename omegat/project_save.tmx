@@ -1,359 +1,359 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="ОмегаТ-4.1.3" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_16fd171f" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326 is ambushed by a band of Rogues!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204505Z" creationid="olexandr" creationdate="20180131T204505Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204505Z" creationid="olexandr" creationdate="20180131T204505Z">
         <seg>Вас атаковала банда разбойников!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326 is ambushed by a band of Water Elementals!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204602Z" creationid="olexandr" creationdate="20180131T204602Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204602Z" creationid="olexandr" creationdate="20180131T204602Z">
         <seg>%Z326 подвергается атаке группой Элементалей Воды!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326's Surcoat Of Counterpoise grows warm, then cold, then warm again.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T205124Z" creationid="olexandr" creationdate="20180131T205124Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T205124Z" creationid="olexandr" creationdate="20180131T205124Z">
         <seg>Мантия Равновесия, которой обладает %Z326, становится теплой, затем холодной, затем снова теплой...</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326all creatures attack as with a breath weapon (when not shooting).</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204427Z" creationid="olexandr" creationdate="20180131T204427Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204427Z" creationid="olexandr" creationdate="20180131T204427Z">
         <seg>%Z326все существа бьют на две клетки (если не стреляют)..</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326all creatures attack twice.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204420Z" creationid="olexandr" creationdate="20180131T204420Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204420Z" creationid="olexandr" creationdate="20180131T204420Z">
         <seg>%Z326все существа атакуют дважды.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326all towns have a grail structure built in them.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204428Z" creationid="olexandr" creationdate="20180131T204428Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204428Z" creationid="olexandr" creationdate="20180131T204428Z">
         <seg>%Z326все города имеют построенный Грааль.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326artifacts tend to come in pairs.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204422Z" creationid="olexandr" creationdate="20180131T204422Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204422Z" creationid="olexandr" creationdate="20180131T204422Z">
         <seg>%Z326герои каждый раз поднимают два одинаковых артефакта там, где, казалось, лежал один.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326bands of Rogues roam the countryside, ready to ambush heroes.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204426Z" creationid="olexandr" creationdate="20180131T204426Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204426Z" creationid="olexandr" creationdate="20180131T204426Z">
         <seg>%Z326шайки воров бродят по сельской местности (невидимы), готовые напасть на героя.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326creatures cost half as much on the 7th day of the week.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204419Z" creationid="olexandr" creationdate="20180131T204419Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204419Z" creationid="olexandr" creationdate="20180131T204419Z">
         <seg>%Z326на 7й день недели существа стоят лишь половину своей обычной цены.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326creatures in a hero's army attract an additional 4%% of their own kind each day, to a maximum of 10000 creatures.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204421Z" creationid="olexandr" creationdate="20180131T204421Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204421Z" creationid="olexandr" creationdate="20180131T204421Z">
         <seg>%Z326каждый отряд в армии героя увеличивает численность на 4% в день, стремясь к максимуму в 10000 существ.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326creatures that are normally slow are fast, and the fast ones slow.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204418Z" creationid="olexandr" creationdate="20180131T204418Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204418Z" creationid="olexandr" creationdate="20180131T204418Z">
         <seg>%Z326медленные становятся быстрыми, а быстрые - медленными.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326each town has a Warlord's Banner in front of it, and Banners in front of neutral towns are guarded.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204509Z" creationid="olexandr" creationdate="20180131T204509Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204509Z" creationid="olexandr" creationdate="20180131T204509Z">
         <seg>%Z326рядом с каждым городом есть Знамя Полководца, и рядом с нейтральными городами оно охраняется.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326heroes gain an artifact with each level.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204426Z" creationid="olexandr" creationdate="20180131T204426Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204426Z" creationid="olexandr" creationdate="20180131T204426Z">
         <seg>%Z326каждый раз при повышении уровня герой получает артефакт.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326heroes have double movement.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204423Z" creationid="olexandr" creationdate="20180131T204423Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204423Z" creationid="olexandr" creationdate="20180131T204423Z">
         <seg>%Z326каждый ход герои начинают с удвоенным количеством (от обычного) очков передвижения.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326heroes may learn 2 secret skills in addition to the 8 normal ones.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204425Z" creationid="olexandr" creationdate="20180131T204425Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204425Z" creationid="olexandr" creationdate="20180131T204425Z">
         <seg>%Z326герои могут выучить 2 секретных навыка в дополнение к 8ми основным.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326heroes start at 5th level.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204422Z" creationid="olexandr" creationdate="20180131T204422Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204422Z" creationid="olexandr" creationdate="20180131T204422Z">
         <seg>%Z326герои начинают с 5-го уровня (+5000 опыта).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326mines produce different resources from week to week.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204424Z" creationid="olexandr" creationdate="20180131T204424Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204424Z" creationid="olexandr" creationdate="20180131T204424Z">
         <seg>%Z326шахты меняют ресурсы каждую неделю.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326most dwellings also produce Boars.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204421Z" creationid="olexandr" creationdate="20180131T204421Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204421Z" creationid="olexandr" creationdate="20180131T204421Z">
         <seg>%Z326большинство внешних жилищ продают кабанов рядом со своим обычным ополчением.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326no creatures can fly, and creatures that once flew cannot be retaliated against.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204417Z" creationid="olexandr" creationdate="20180131T204417Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204417Z" creationid="olexandr" creationdate="20180131T204417Z">
         <seg>%Z326нет летающих существ, а те, кто когда-то были летающими, бьют без ответа.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326no creatures shoot, and creatures that once shot have +50%% hit points.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204428Z" creationid="olexandr" creationdate="20180131T204428Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204428Z" creationid="olexandr" creationdate="20180131T204428Z">
         <seg>%Z326нет стреляющих существ, а существа, бывшие ранее таковыми, имеют +50% очков здоровья.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326places that a hero could normally only visit once may be revisited each month.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204424Z" creationid="olexandr" creationdate="20180131T204424Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204424Z" creationid="olexandr" creationdate="20180131T204424Z">
         <seg>%Z326каждый месяц можно заново посещать объекты разового посещения.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326the presence of a hero warps the land with magic.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204419Z" creationid="olexandr" creationdate="20180131T204419Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204419Z" creationid="olexandr" creationdate="20180131T204419Z">
         <seg>%Z326место, где герой стоит в начале дня становится магической равниной.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326there is perpetual darkness.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204423Z" creationid="olexandr" creationdate="20180131T204423Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204423Z" creationid="olexandr" creationdate="20180131T204423Z">
         <seg>%Z326карта скрыта постоянной тьмой.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z326upgraded 7th level creatures in a hero's army automatically upgrade to 8th level.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204425Z" creationid="olexandr" creationdate="20180131T204425Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204425Z" creationid="olexandr" creationdate="20180131T204425Z">
         <seg>%Z326в армии героя улучшенные монстры 7го уровня автоматически улучшаются до 8го в начале дня.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>%Z352 may learn a secret skill, %Z353.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T205055Z" creationid="olexandr" creationdate="20180131T205055Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T205055Z" creationid="olexandr" creationdate="20180131T205055Z">
         <seg>Герой может выучить секретный навык, %Z353.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>7th level creatures upgrade to 8th Level.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204411Z" creationid="olexandr" creationdate="20180131T204411Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204411Z" creationid="olexandr" creationdate="20180131T204411Z">
         <seg>Автопреобразование существ 7-го уровня</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>After this message, there will be a delay while the map is converted 
 to include WoG features (and then another message when it's done).</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T115138Z" creationid="olexandr" creationdate="20180204T114237Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T115138Z" creationid="olexandr" creationdate="20180204T114237Z">
         <seg>После этого сообщения, некоторое время займет 
 преобразование карты, инициирующее новые возможности WoG. 
 (затем появится сообщение об окончании этого процесса).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Also,</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204417Z" creationid="olexandr" creationdate="20180131T204417Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204417Z" creationid="olexandr" creationdate="20180131T204417Z">
         <seg>А еще</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Artifacts on the map are found in pairs.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204406Z" creationid="olexandr" creationdate="20180131T204406Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204406Z" creationid="olexandr" creationdate="20180131T204406Z">
         <seg>Дублирование артефактов</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Continue playing at your own risk.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T115225Z" creationid="olexandr" creationdate="20180204T114415Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T115225Z" creationid="olexandr" creationdate="20180204T114415Z">
         <seg>
 Вы можете продолжать игру на свой страх и риск.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Creature dwellings also sell Boars.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204405Z" creationid="olexandr" creationdate="20180131T204405Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204405Z" creationid="olexandr" creationdate="20180131T204405Z">
         <seg>Продажа кабанов во всех внешних жилищах</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Creatures are half-price on day 7 each week.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204402Z" creationid="olexandr" creationdate="20180131T204402Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204402Z" creationid="olexandr" creationdate="20180131T204402Z">
         <seg>Половинная стоимость существ на 7-ой день</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Creatures attack twice.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204404Z" creationid="olexandr" creationdate="20180131T204404Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204404Z" creationid="olexandr" creationdate="20180131T204404Z">
         <seg>Двойная атака для всех существ</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Creatures have breath weapons.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204413Z" creationid="olexandr" creationdate="20180131T204413Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204413Z" creationid="olexandr" creationdate="20180131T204413Z">
         <seg>Атака дыханием для всех существ</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Creatures in armies grow by 4 percent each day.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204404Z" creationid="olexandr" creationdate="20180131T204404Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204404Z" creationid="olexandr" creationdate="20180131T204404Z">
         <seg>Растущие армии</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Currently:    %Y2%%  (%Z2)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114317Z" creationid="olexandr" creationdate="20180204T114317Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114317Z" creationid="olexandr" creationdate="20180204T114317Z">
         <seg>Сейчас: %Y2%% (%Z2)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Currently:    %Y5%%</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114320Z" creationid="olexandr" creationdate="20180204T114320Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114320Z" creationid="olexandr" creationdate="20180204T114320Z">
         <seg>Сейчас: %Y5%%</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Currently:    +%Y3  (%Z3)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114326Z" creationid="olexandr" creationdate="20180204T114326Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114326Z" creationid="olexandr" creationdate="20180204T114326Z">
         <seg>Сейчас: +%Y3  (%Z3)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Currently:    x%Y4  (%Z4)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114325Z" creationid="olexandr" creationdate="20180204T114325Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114325Z" creationid="olexandr" creationdate="20180204T114325Z">
         <seg>Сейчас: x%Y4  (%Z4)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Currently:  %Y2%% (%Z2)
 
 %Z-9</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114333Z" creationid="olexandr" creationdate="20180204T114333Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114333Z" creationid="olexandr" creationdate="20180204T114333Z">
         <seg>Текущее:  %Y2%% (%Z2)
 
 %Z-9</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Currently:  %Y5%%</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114336Z" creationid="olexandr" creationdate="20180204T114336Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114336Z" creationid="olexandr" creationdate="20180204T114336Z">
         <seg>Текущее:  %Y5%%</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Currently:  +%Y3 (%Z3)
 
 %Z-9</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114343Z" creationid="olexandr" creationdate="20180204T114343Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114343Z" creationid="olexandr" creationdate="20180204T114343Z">
         <seg>Текущее:  +%Y3 (%Z3)
 
 %Z-9</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Currently:  x%Y4 (%Z4)
 
 %Z-9
@@ -361,7 +361,7 @@ to include WoG features (and then another message when it's done).</seg>
 Note: If AI Experience Multiplier is 0, Town Garrisons
 will receive 0 experience regardless of this value.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114340Z" creationid="olexandr" creationdate="20180204T114340Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114340Z" creationid="olexandr" creationdate="20180204T114340Z">
         <seg>Текущее:  x%Y4 (%Z4)
 
 %Z-9
@@ -372,648 +372,648 @@ will receive 0 experience regardless of this value.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Does %Z354 wish to learn this?</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T205102Z" creationid="olexandr" creationdate="20180131T205102Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T205102Z" creationid="olexandr" creationdate="20180131T205102Z">
         <seg>Хочет ли %Z354 выучить это?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Each town has a Grail.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204414Z" creationid="olexandr" creationdate="20180131T204414Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204414Z" creationid="olexandr" creationdate="20180131T204414Z">
         <seg>Постройка Грааля во всех городах</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Each town has a Warlord's Banners in front of it.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204508Z" creationid="olexandr" creationdate="20180131T204508Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204508Z" creationid="olexandr" creationdate="20180131T204508Z">
         <seg>Знамена полководца у врат городов</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Easier than Easy</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114349Z" creationid="olexandr" creationdate="20180204T114349Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114349Z" creationid="olexandr" creationdate="20180204T114349Z">
         <seg>Легче легкого</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Easy</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114350Z" creationid="olexandr" creationdate="20180204T114350Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114350Z" creationid="olexandr" creationdate="20180204T114350Z">
         <seg>Легко</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Easy/Normal</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114352Z" creationid="olexandr" creationdate="20180204T114352Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114352Z" creationid="olexandr" creationdate="20180204T114352Z">
         <seg>Легко/Нормально</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Enjoy yourself...or ELSE!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114309Z" creationid="olexandr" creationdate="20180204T114309Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114309Z" creationid="olexandr" creationdate="20180204T114309Z">
         <seg>Приятной игры... удачи!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Enter an integer value between 0 and 10000</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114345Z" creationid="olexandr" creationdate="20180204T114345Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114345Z" creationid="olexandr" creationdate="20180204T114345Z">
         <seg>Введите целое число от 0 до 10000</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Expert</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114356Z" creationid="olexandr" creationdate="20180204T114356Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114356Z" creationid="olexandr" creationdate="20180204T114356Z">
         <seg>Эксперт</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Expert/Impossible</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114358Z" creationid="olexandr" creationdate="20180204T114358Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114358Z" creationid="olexandr" creationdate="20180204T114358Z">
         <seg>Эксперт/Невозможно</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Fast creatures are slow, slow ones fast.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204400Z" creationid="olexandr" creationdate="20180131T204400Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204400Z" creationid="olexandr" creationdate="20180131T204400Z">
         <seg>Инвертированная скорость существ</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Fliers don't fly, but aren't retaliated against.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204358Z" creationid="olexandr" creationdate="20180131T204358Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204358Z" creationid="olexandr" creationdate="20180131T204358Z">
         <seg>Атака без контрудара вместо полета</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>For achieving so much, %Z2 is granted an artifact.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204438Z" creationid="olexandr" creationdate="20180131T204438Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204438Z" creationid="olexandr" creationdate="20180131T204438Z">
         <seg>За старания герой награжден артефактом.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hard</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114355Z" creationid="olexandr" creationdate="20180204T114355Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114355Z" creationid="olexandr" creationdate="20180204T114355Z">
         <seg>Сложно</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hard/Expert</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114355Z" creationid="olexandr" creationdate="20180204T114355Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114355Z" creationid="olexandr" creationdate="20180204T114355Z">
         <seg>Сложно/Эксперт</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Harder than Impossible</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114400Z" creationid="olexandr" creationdate="20180204T114400Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114400Z" creationid="olexandr" creationdate="20180204T114400Z">
         <seg>Ни единого шанса</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Heroes are given an artifact each level.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204412Z" creationid="olexandr" creationdate="20180131T204412Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204412Z" creationid="olexandr" creationdate="20180131T204412Z">
         <seg>Получение артефакта за каждый уровень</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Heroes can have 10 Skills.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204411Z" creationid="olexandr" creationdate="20180131T204411Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204411Z" creationid="olexandr" creationdate="20180131T204411Z">
         <seg>Использование скрытых навыков</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Heroes create Magic Plains each day.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204403Z" creationid="olexandr" creationdate="20180131T204403Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204403Z" creationid="olexandr" creationdate="20180131T204403Z">
         <seg>Создание героями магического ландшафта</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Heroes move twice as far.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204408Z" creationid="olexandr" creationdate="20180131T204408Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204408Z" creationid="olexandr" creationdate="20180131T204408Z">
         <seg>Удвоенное передвижение героев</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Heroes start at 5th Level.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204406Z" creationid="olexandr" creationdate="20180131T204406Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204406Z" creationid="olexandr" creationdate="20180131T204406Z">
         <seg>Начало с героями пятого уровня</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Hint: You can view or save current WoGify options during the game
 by pressing 'S' and then clicking on the WoG Options button.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114239Z" creationid="olexandr" creationdate="20180204T114239Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114239Z" creationid="olexandr" creationdate="20180204T114239Z">
         <seg>ПОДСКАЗКА: Вы можете посмотреть или сохранить WoG-настройки
 во время игры, нажав 'S' и кликнув после этого 
 по кнопке WoG-настроек.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Impossible</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114359Z" creationid="olexandr" creationdate="20180204T114359Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114359Z" creationid="olexandr" creationdate="20180204T114359Z">
         <seg>Невозможно</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Impressed by %Z326's interest in Birds, some Royal Griffins join %Z328 army.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T205152Z" creationid="olexandr" creationdate="20180131T205152Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T205152Z" creationid="olexandr" creationdate="20180131T205152Z">
         <seg>Впечатленные тем, что %Z326 интересуется птицами, несколько Королевских Грифонов желают вступить в %Z328 армию.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>In this strange land,</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204416Z" creationid="olexandr" creationdate="20180131T204416Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204416Z" creationid="olexandr" creationdate="20180131T204416Z">
         <seg>На этой странной земле</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Invalid Spell Parameter: banning must be 0..3</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114412Z" creationid="olexandr" creationdate="20180204T114412Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114412Z" creationid="olexandr" creationdate="20180204T114412Z">
         <seg>Неправильный параметр заклинания: запрет должен быть в пределах: 0..3</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Invalid Spell Parameter: element must be 0..15</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114411Z" creationid="olexandr" creationdate="20180204T114411Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114411Z" creationid="olexandr" creationdate="20180204T114411Z">
         <seg>Неправильный параметр заклинания: элемент должен быть в пределах: 0..15</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Invalid Spell Parameter: maximum spell level must be 0..5</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114409Z" creationid="olexandr" creationdate="20180204T114409Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114409Z" creationid="olexandr" creationdate="20180204T114409Z">
         <seg>Неправильный параметр заклинания: максимальный уровень: 0..5</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Invalid Spell Parameter: minimum spell level must be 0..5</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114408Z" creationid="olexandr" creationdate="20180204T114408Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114408Z" creationid="olexandr" creationdate="20180204T114408Z">
         <seg>Неправильный параметр заклинания: минимальный уровень: 0..5</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Invalid Spell Parameter: number of spell exclusions must be 0..9</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114413Z" creationid="olexandr" creationdate="20180204T114413Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114413Z" creationid="olexandr" creationdate="20180204T114413Z">
         <seg>Неправильный параметр заклинания: число исключений может быть: 0..9</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Invalid Spell Parameter: spell type be 0..2</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114410Z" creationid="olexandr" creationdate="20180204T114410Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114410Z" creationid="olexandr" creationdate="20180204T114410Z">
         <seg>Неправильный параметр заклинания: тип заклинания: 0..2</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>It's unclear what it's doing, but it seems to be doing something.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T205137Z" creationid="olexandr" creationdate="20180131T205137Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T205137Z" creationid="olexandr" creationdate="20180131T205137Z">
         <seg>Неясно, что происходит, но похоже, дело в Мантии.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Joyful at %Z326's interest in Life and its Pendants, some Sprites join %Z328 army.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T205158Z" creationid="olexandr" creationdate="20180131T205158Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T205158Z" creationid="olexandr" creationdate="20180131T205158Z">
         <seg>Довольные, что %Z326 интересуется жизнью и ее символами, несколько Фей желают вступить в %Z328 армию.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Large maps may take a few minutes on slow systems.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114252Z" creationid="olexandr" creationdate="20180204T114252Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114252Z" creationid="olexandr" creationdate="20180204T114252Z">
         <seg>Преобразование больших карт может длиться несколько минут.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Magic Air Mushroom (Not Visited)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204040Z" creationid="olexandr" creationdate="20180131T204040Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204040Z" creationid="olexandr" creationdate="20180131T204040Z">
         <seg>Гриб Магии Воздуха (Не посещено)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Magic Air Mushroom (Visited)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204042Z" creationid="olexandr" creationdate="20180131T204042Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204042Z" creationid="olexandr" creationdate="20180131T204042Z">
         <seg>Гриб Магии Воздуха (Посещено)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Magic Earth Mushroom (Not Visited)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204036Z" creationid="olexandr" creationdate="20180131T204036Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204036Z" creationid="olexandr" creationdate="20180131T204036Z">
         <seg>Гриб Магии Земли (Не посещено)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Magic Earth Mushroom (Visited)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204037Z" creationid="olexandr" creationdate="20180131T204037Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204037Z" creationid="olexandr" creationdate="20180131T204037Z">
         <seg>Гриб Магии Земли (Посещено)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Magic Fire Mushroom (Not Visited)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204035Z" creationid="olexandr" creationdate="20180131T204035Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204035Z" creationid="olexandr" creationdate="20180131T204035Z">
         <seg>Гриб Магии Огня (Не посещено)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Magic Fire Mushroom (Visited)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204036Z" creationid="olexandr" creationdate="20180131T204036Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204036Z" creationid="olexandr" creationdate="20180131T204036Z">
         <seg>Гриб Магии Огня (Посещено)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Magic Water Mushroom (Not Visited)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204029Z" creationid="olexandr" creationdate="20180131T204029Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204029Z" creationid="olexandr" creationdate="20180131T204029Z">
         <seg>Гриб Магии Воды (Не посещено)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Magic Water Mushroom (Visited)</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204033Z" creationid="olexandr" creationdate="20180131T204033Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204033Z" creationid="olexandr" creationdate="20180131T204033Z">
         <seg>Гриб Магии Воды (Посещено)</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Mark any map rules that you want in this game (page 1 of 2).</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204415Z" creationid="olexandr" creationdate="20180131T204415Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204415Z" creationid="olexandr" creationdate="20180131T204415Z">
         <seg>Отметьте правила для этой игры - на ваш выбор (страница 1 из 2).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Mark any map rules that you want in this game (page 2 of 2).</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204415Z" creationid="olexandr" creationdate="20180131T204415Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204415Z" creationid="olexandr" creationdate="20180131T204415Z">
         <seg>Отметьте правила для этой игры - на ваш выбор (страница 2 из 2).</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Mines change resources each week.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204409Z" creationid="olexandr" creationdate="20180131T204409Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204409Z" creationid="olexandr" creationdate="20180131T204409Z">
         <seg>Еженедельная смена шахтами типа ресурса</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Normal</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114353Z" creationid="olexandr" creationdate="20180204T114353Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114353Z" creationid="olexandr" creationdate="20180204T114353Z">
         <seg>Нормально</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Normal/Hard</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114354Z" creationid="olexandr" creationdate="20180204T114354Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114354Z" creationid="olexandr" creationdate="20180204T114354Z">
         <seg>Нормально/Сложно</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Option changes CANNOT be made during a game from this screen.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114242Z" creationid="olexandr" creationdate="20180204T114242Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114242Z" creationid="olexandr" creationdate="20180204T114242Z">
         <seg>Изменить настройки из этого окна во время игры НЕЛЬЗЯ.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Perpetual darkness.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204407Z" creationid="olexandr" creationdate="20180131T204407Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204407Z" creationid="olexandr" creationdate="20180131T204407Z">
         <seg>Туман войны</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Please select a Stack Experience value to change.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114314Z" creationid="olexandr" creationdate="20180204T114314Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114314Z" creationid="olexandr" creationdate="20180204T114314Z">
         <seg>Что именно из настроек получения опыта армиями вы хотите изменить?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Rogues ambush the unwary.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204412Z" creationid="olexandr" creationdate="20180131T204412Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204412Z" creationid="olexandr" creationdate="20180131T204412Z">
         <seg>Атаки воров</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Set AI Additional Experience.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114325Z" creationid="olexandr" creationdate="20180204T114325Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114325Z" creationid="olexandr" creationdate="20180204T114325Z">
         <seg>Дополн. опыт для компьютера.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Set AI Experience Multiplier.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114956Z" creationid="olexandr" creationdate="20180204T114316Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114956Z" creationid="olexandr" creationdate="20180204T114316Z">
         <seg>Задать темп получения опыта компьютером.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Set AI Town Garrison Multiplier.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114323Z" creationid="olexandr" creationdate="20180204T114323Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114323Z" creationid="olexandr" creationdate="20180204T114323Z">
         <seg>Гарнизоны в городах компьютера.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Set Human Experience Multiplier.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114319Z" creationid="olexandr" creationdate="20180204T114319Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114319Z" creationid="olexandr" creationdate="20180204T114319Z">
         <seg>Получение опыта игроком.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Shooters don't shoot, but have more hit points.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204414Z" creationid="olexandr" creationdate="20180131T204414Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204414Z" creationid="olexandr" creationdate="20180131T204414Z">
         <seg>+50% здоровья вместо стрельбы</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Suddenly, the water around %Z326's ship becomes alive!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204558Z" creationid="olexandr" creationdate="20180131T204558Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204558Z" creationid="olexandr" creationdate="20180131T204558Z">
         <seg>Внезапно, вода вокруг корабля героя %Z326 оживает!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Teaching objects can be revisited each month.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204410Z" creationid="olexandr" creationdate="20180131T204410Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204410Z" creationid="olexandr" creationdate="20180131T204410Z">
         <seg>Повторное посещение мест обучения</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>The Rogues had treasure!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204507Z" creationid="olexandr" creationdate="20180131T204507Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204507Z" creationid="olexandr" creationdate="20180131T204507Z">
         <seg>У разбойников было сокровище!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>The Warlord's Banner is guarded by %Y1 %Z-1!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204543Z" creationid="olexandr" creationdate="20180131T204543Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204543Z" creationid="olexandr" creationdate="20180131T204543Z">
         <seg>Знамя Полководца имеет охрану: %Y1 %Z-1!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>The Warlord's Banner is guarded by a %Z-1!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204524Z" creationid="olexandr" creationdate="20180131T204524Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204524Z" creationid="olexandr" creationdate="20180131T204524Z">
         <seg>Знамя Полководца имеет охрану: %Z-1!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>The WoG Options button is located on the Scenario Selection screen.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114300Z" creationid="olexandr" creationdate="20180204T114300Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114300Z" creationid="olexandr" creationdate="20180204T114300Z">
         <seg>Кнопка WoG-настроек находится в окне выбора сценария.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>To battle, Hero!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114313Z" creationid="olexandr" creationdate="20180204T114313Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114313Z" creationid="olexandr" creationdate="20180204T114313Z">
         <seg>К бою, Герой!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Try again next week.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204302Z" creationid="olexandr" creationdate="20180131T204302Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204302Z" creationid="olexandr" creationdate="20180131T204302Z">
         <seg>Попытайтесь снова на следующей неделе.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Use these values.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114327Z" creationid="olexandr" creationdate="20180204T114327Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114327Z" creationid="olexandr" creationdate="20180204T114327Z">
         <seg>Использовать эти значения.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>WARNING: Since the map is "half-wogified" some scripts may not work as intended.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114414Z" creationid="olexandr" creationdate="20180204T114414Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114414Z" creationid="olexandr" creationdate="20180204T114414Z">
         <seg>ВНИМАНИЕ: Поскольку карта "наполовину WoG'ифицирована", 
 некоторые скрипты могут работать неправильно.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Will you fight it for the prize?</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204527Z" creationid="olexandr" creationdate="20180131T204527Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204527Z" creationid="olexandr" creationdate="20180131T204527Z">
         <seg>Вы будете драться за эту награду?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Will you fight them for the prize?</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204548Z" creationid="olexandr" creationdate="20180131T204548Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204548Z" creationid="olexandr" creationdate="20180131T204548Z">
         <seg>Вы будете драться с ними за эту награду?</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>WoGification complete!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114301Z" creationid="olexandr" creationdate="20180204T114301Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114301Z" creationid="olexandr" creationdate="20180204T114301Z">
         <seg>WoG'ификация завершена!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>WoGification is about to begin!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114233Z" creationid="olexandr" creationdate="20180204T114233Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114233Z" creationid="olexandr" creationdate="20180204T114233Z">
         <seg>WoG'ификация начинается!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>You find another %Z-1 near this one.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204429Z" creationid="olexandr" creationdate="20180131T204429Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204429Z" creationid="olexandr" creationdate="20180131T204429Z">
         <seg>Вы нашли еще один точно такой же артефакт рядом с первым.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>[0=None, 100=Easy, 200=Normal
 300=Hard, 400=Expert, 500=Impossible]</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114402Z" creationid="olexandr" creationdate="20180204T114402Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114402Z" creationid="olexandr" creationdate="20180204T114402Z">
         <seg>[0=Нет, 100=Легко, 200=Нормально
 300=Сложно, 400=Эксперт, 500=Невозможно]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>[0=None, 10=Easy, 25=Normal
 50=Hard, 75=Expert, 100=Impossible]</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114404Z" creationid="olexandr" creationdate="20180204T114404Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114404Z" creationid="olexandr" creationdate="20180204T114404Z">
         <seg>[0=Нет, 10=Легко, 25=Нормально
 50=Сложно, 75=Эксперт, 100=Невозможно]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>[0=None, 50=Easy, 100=Normal
 200=Hard, 300=Expert, 400=Impossible]</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114405Z" creationid="olexandr" creationdate="20180204T114405Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114405Z" creationid="olexandr" creationdate="20180204T114405Z">
         <seg>[0=Нет, 50=Легко, 100=Нормально
 200=Сложно, 300=Эксперт, 400=Невозможно]</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>he</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204430Z" creationid="olexandr" creationdate="20180131T204430Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204430Z" creationid="olexandr" creationdate="20180131T204430Z">
         <seg>он</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>her</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T205114Z" creationid="olexandr" creationdate="20180131T205114Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T205114Z" creationid="olexandr" creationdate="20180131T205114Z">
         <seg>ее</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>his</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T205112Z" creationid="olexandr" creationdate="20180131T205112Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T205112Z" creationid="olexandr" creationdate="20180131T205112Z">
         <seg>его</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>she</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204430Z" creationid="olexandr" creationdate="20180131T204430Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204430Z" creationid="olexandr" creationdate="20180131T204430Z">
         <seg>она</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Air Mushroom} 
  
 The Magic Air Mushroom gives Expert Air Magic until the end of the week... 
  
 Since you already have Expert Air Magic, the mushroom can't help you.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204334Z" creationid="olexandr" creationdate="20180131T204334Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204334Z" creationid="olexandr" creationdate="20180131T204334Z">
         <seg>{Гриб Магии Воздуха} 
  
 Гриб Магии Воздуха делает вас Экспертом в Магии Воздуха до конца недели... 
@@ -1022,7 +1022,7 @@ Since you already have Expert Air Magic, the mushroom can't help you.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Air Mushroom} 
  
 The Magic Air Mushroom gives Expert Air Magic until the end of the week... 
@@ -1031,7 +1031,7 @@ You inhale the spores of the magic mushroom...
  
 You learn Expert Air Magic!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204340Z" creationid="olexandr" creationdate="20180131T204340Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204340Z" creationid="olexandr" creationdate="20180131T204340Z">
         <seg>{Гриб Магии Воздуха} 
  
 Гриб Магии Воздуха делает вас Экспертом в Магии Воздуха до конца недели... 
@@ -1042,26 +1042,26 @@ You learn Expert Air Magic!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Air Mushroom} 
  
 You have already visited a Magic Air Mushroom this week.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204335Z" creationid="olexandr" creationdate="20180131T204335Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204335Z" creationid="olexandr" creationdate="20180131T204335Z">
         <seg>{Гриб Магии Воды} 
  
 Вы уже посещали Гриб Магии Воды на этой неделе.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Earth Mushroom} 
  
 The Magic Earth Mushroom gives Expert Earth Magic until the end of the week... 
  
 Since you already have Expert Earth Magic, the mushroom can't help you.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204327Z" creationid="olexandr" creationdate="20180131T204327Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204327Z" creationid="olexandr" creationdate="20180131T204327Z">
         <seg>{Гриб Магии Земли} 
  
 Гриб Магии Земли делает вас Экспертом в Магии Земли до конца недели... 
@@ -1070,7 +1070,7 @@ Since you already have Expert Earth Magic, the mushroom can't help you.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Earth Mushroom} 
  
 The Magic Earth Mushroom gives Expert Earth Magic until the end of the week... 
@@ -1079,7 +1079,7 @@ You inhale the spores of the magic mushroom...
  
 You learn Expert Earth Magic!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204332Z" creationid="olexandr" creationdate="20180131T204332Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204332Z" creationid="olexandr" creationdate="20180131T204332Z">
         <seg>{Гриб Магии Земли} 
  
 Гриб Магии Земли делает вас Экспертом в Магии Земли до конца недели... 
@@ -1090,26 +1090,26 @@ You learn Expert Earth Magic!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Earth Mushroom} 
  
 You have already visited a Magic Earth Mushroom this week.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204329Z" creationid="olexandr" creationdate="20180131T204329Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204329Z" creationid="olexandr" creationdate="20180131T204329Z">
         <seg>{Гриб Магии Воды} 
  
 Вы уже посещали Гриб Магии Воды на этой неделе.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Fire Mushroom} 
  
 The Magic Fire Mushroom gives Expert Fire Magic until the end of the week... 
  
 Since you already have Expert Fire Magic, the mushroom can't help you.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204315Z" creationid="olexandr" creationdate="20180131T204315Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204315Z" creationid="olexandr" creationdate="20180131T204315Z">
         <seg>{Гриб Магии Огня} 
  
 Гриб Магии Огня делает вас Экспертом в Магии Огня до конца недели... 
@@ -1118,7 +1118,7 @@ Since you already have Expert Fire Magic, the mushroom can't help you.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Fire Mushroom} 
  
 The Magic Fire Mushroom gives Expert Fire Magic until the end of the week... 
@@ -1127,7 +1127,7 @@ You inhale the spores of the magic mushroom...
  
 You learn Expert Fire Magic!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204324Z" creationid="olexandr" creationdate="20180131T204324Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204324Z" creationid="olexandr" creationdate="20180131T204324Z">
         <seg>{Гриб Магии Огня} 
  
 Гриб Магии Огня делает вас Экспертом в Магии Огня до конца недели... 
@@ -1138,34 +1138,34 @@ You learn Expert Fire Magic!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Fire Mushroom} 
  
 You have already visited a Magic Fire Mushroom this week.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204319Z" creationid="olexandr" creationdate="20180131T204319Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204319Z" creationid="olexandr" creationdate="20180131T204319Z">
         <seg>{Гриб Магии Воды} 
  
 Вы уже посещали Гриб Магии Воды на этой неделе.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Water Mushroom}</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204119Z" creationid="olexandr" creationdate="20180131T204119Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204119Z" creationid="olexandr" creationdate="20180131T204119Z">
         <seg>{Гриб Магии Воды}</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Water Mushroom} 
  
 The Magic Water Mushroom gives Expert Water Magic until the end of the week... 
  
 Since you already have Expert Water Magic, the mushroom can't help you.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204233Z" creationid="olexandr" creationdate="20180131T204233Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204233Z" creationid="olexandr" creationdate="20180131T204233Z">
         <seg>{Гриб Магии Воды} 
  
 Гриб Магии Воды делает вас Экспертом в Магии Воды до конца недели... 
@@ -1174,7 +1174,7 @@ Since you already have Expert Water Magic, the mushroom can't help you.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Water Mushroom} 
  
 The Magic Water Mushroom gives Expert Water Magic until the end of the week... 
@@ -1183,7 +1183,7 @@ You inhale the spores of the magic mushroom...
  
 You learn Expert Water Magic!</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204305Z" creationid="olexandr" creationdate="20180131T204305Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204305Z" creationid="olexandr" creationdate="20180131T204305Z">
         <seg>{Гриб Магии Воды} 
  
 Гриб Магии Воды делает вас Экспертом в Магии Воды до конца недели... 
@@ -1194,25 +1194,25 @@ You learn Expert Water Magic!</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Magic Water Mushroom} 
  
 You have already visited a Magic Water Mushroom this week.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180131T204255Z" creationid="olexandr" creationdate="20180131T204236Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180131T204255Z" creationid="olexandr" creationdate="20180131T204236Z">
         <seg>{Гриб Магии Воды} 
  
 Вы уже посещали Гриб Магии Воды на этой неделе.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{Value Not in Allowed Range}
 
 You must enter a value
 between 0 and 10000.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114347Z" creationid="olexandr" creationdate="20180204T114347Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114347Z" creationid="olexandr" creationdate="20180204T114347Z">
         <seg>{Неверное значение}
 
 Вы должны ввести значение
@@ -1220,12 +1220,12 @@ between 0 and 10000.</seg>
       </tuv>
     </tu>
     <tu>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>{WoGification Cancelled!}
 
 Although WoGification has been cancelled, most ongoing WoGify scripts will remain active.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T114413Z" creationid="olexandr" creationdate="20180204T114413Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T114413Z" creationid="olexandr" creationdate="20180204T114413Z">
         <seg>{WoG'ификация отменена!}
 
 Несмотря на то, что WoG'ификация была отменена, большинство уже включенных скриптов остаются активны.</seg>
@@ -1235,10 +1235,10 @@ Although WoGification has been cancelled, most ongoing WoGify scripts will remai
     <tu>
       <prop type="file">script00.ert</prop>
       <prop type="id">100007</prop>
-      <tuv lang="EN">
+      <tuv lang="en">
         <seg>Set AI Experience Multiplier.</seg>
       </tuv>
-      <tuv lang="RU" changeid="olexandr" changedate="20180204T115053Z" creationid="olexandr" creationdate="20180204T115053Z">
+      <tuv lang="ru" changeid="olexandr" changedate="20180204T115053Z" creationid="olexandr" creationdate="20180204T115053Z">
         <seg>Получение опыта компьютером.</seg>
       </tuv>
     </tu>
